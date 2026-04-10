@@ -18,6 +18,10 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609970&exten
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609543&extension=ts
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hJc10xx0/Antena-Seis.png" group-title="→ ENTRETENIMIENTO HD ←",ANTENA SEIS CR
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609559&extension=ts&play
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PQr5SWh/AXN.png" group-title="→ CINE & SERIES HD ←",AXN
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609541&extension=ts
 
@@ -28,6 +32,10 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609960&exten
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VpTsLn70/uno.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA UNO
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609959&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rxkgHdk/CANAL1.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 1 COL
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609585&extension=ts&play
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WfWqGPj/5.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 5 MX
@@ -56,6 +64,18 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609518&exten
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xsfN1PG/cinemadinamita.png" group-title="→ CINE & SERIES HD ←",CINEMA DINAMITA
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609461&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2ZgYdmd/CLC.png" group-title="→ CINE & SERIES HD ←",CLARO CINEMA
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609314&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C2zxLMD/ClaroS.png" group-title="→ DEPORTES HD ←",CLARO SPORTS 1
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609313&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C2zxLMD/ClaroS.png" group-title="→ DEPORTES HD ←",CLARO SPORTS 2
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609312&extension=ts&play
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYG3p1x/CNN-en-Espa-ol.png" group-title="→ NOTICIAS HD ←",CNN ESPAÑOL
@@ -114,8 +134,31 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609495&exten
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609925&extension=ts&play
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DSPORTS
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609304&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fGXqR1m/DSports2.png" group-title="→ DEPORTES HD ←",DSPORTS 2
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609303&extension=ts&play
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZL8y28v/E.png" group-title="→ ENTRETENIMIENTO HD ←",E! ENTERTAINMENT
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609924&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES HD ←",ECDF
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609576&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/55sgTvL/Ecuador-TV.png" group-title="→ ENTRETENIMIENTO HD ←",ECUADOR TV
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609582&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBT49bQ/Ecuavisa.png" group-title="→ ENTRETENIMIENTO HD ←",ECUAVISA
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609584&extension=ts&play
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dBT49bQ/Ecuavisa.png" group-title="→ ENTRETENIMIENTO HD ←",ECUAVISA INT
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609580&extension=ts&play
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fp5S3z5/ESPN.png" group-title="→ DEPORTES HD ←",ESPN MX
@@ -128,6 +171,10 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609922&exten
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1b05FBT/ESPN3.png" group-title="→ DEPORTES HD ←",ESPN 3 MX
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609921&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSDntDSg/ESPN-4.png" group-title="→ DEPORTES HD ←",ESPN 4
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609302&extension=ts&play
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gFJBLSms/ETV.png" group-title="→ ENTRETENIMIENTO HD ←",ESTRELLA TV
@@ -186,6 +233,22 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609451&exten
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609450&extension=ts&play
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/61qwY78/rcn.png" group-title="→ ENTRETENIMIENTO HD ←",RCN
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609330&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVzWCWj/Repretel-Canal6.png" group-title="→ ENTRETENIMIENTO HD ←",REPRETEL 6
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609568&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wZNtLsD7/Repretel-Canal11.png" group-title="→ ENTRETENIMIENTO HD ←",REPRETEL 11
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609567&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ngd5H1zD/Rts.png" group-title="→ ENTRETENIMIENTO HD ←",RTS EC
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609574&extension=ts&play
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0n9SGzY/space.png" group-title="→ CINE & SERIES HD ←",SPACE
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609442&extension=ts&play
 
@@ -196,6 +259,22 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609441&exten
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTyXVBKN/Star-Movies.png" group-title="→ CINE & SERIES HD ←",STAR MOVIES
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609911&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0XwNm7Z/Studio-Universal.png" group-title="→ CINE & SERIES HD ←",STUDIO UNIVERSAL
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609414&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nC118GT/tcm.png" group-title="→ CINE & SERIES HD ←",TCM
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609409&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kh2bHkN/Teleamazonas.png" group-title="→ ENTRETENIMIENTO HD ←",TELEAMAZONAS EC
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609570&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QF6J7cX3/telemetro.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMETRO PAN
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609407&extension=ts&play
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO ATLANTA
@@ -336,6 +415,9 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927148&exten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PUEBLO
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927112&extension=ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PUERTO RICO
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609391&extension=ts&play
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO SALT LAKE CITY
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927111&extension=ts
 
@@ -365,6 +447,18 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927219&exten
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO WORCESTER
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927155&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27p4tRgf/teleuno.png" group-title="→ ENTRETENIMIENTO HD ←",TELEUNO CR
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609565&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KFGMFmL/tnt-series.png" group-title="→ CINE & SERIES HD ←",TNT SERIES
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609387&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fHK37qz/tooncast.png" group-title="→ INFANTIL & JUVENIL HD ←",TOONCAST
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609386&extension=ts&play
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPwtCVLS/Uni-M-s.png" group-title="→ ENTRETENIMIENTO HD ←",UNIMAS ATLANTA
@@ -408,6 +502,22 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609365&exten
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nn2Wtx/univision.png" group-title="→ ENTRETENIMIENTO HD ←",UNIVISION SAN ANTONIO
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609368&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFzJ8ws4/wam.png" group-title="→ ENTRETENIMIENTO HD ←",WAPA PR
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609350&extension=ts&play_token=vQXFZJoD6G
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TRhTRNw/warner-tv.png" group-title="→ CINE & SERIES HD ←",WARNER TV
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609348&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CMKbWVX/Win.png" group-title="→ DEPORTES HD ←",WIN SPORTS
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609306&extension=ts&play
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HFnZTvg/Win-Sports.png" group-title="→ DEPORTES HD ←",WIN SPORTS +
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609305&extension=ts&play
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TFxMyDk/elchavo.jpg" group-title="→ SERIE TV ←",EL CHAVO DEL 8
