@@ -1,127 +1,198 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO US
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927219&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZHt8JGP/a-y-e.png" group-title="→ CINE & SERIES HD ←",A&E
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609546&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO NBC
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927211&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO LAS VEGAS
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927197&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgHG3Kh/amc.png" group-title="→ CINE & SERIES HD ←",AMC
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609545&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CERES
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927195&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgHG3Kh/amc.png" group-title="→ CINE & SERIES HD ←",AMC
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609544&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PARKER
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927192&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO DENVER
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927191&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJLKPrp/animal-planet.png" group-title="→ DOCUMENTAL HD ←",ANIMAL PLANET
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609543&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MARANA
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927185&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CONCORD
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927180&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PQr5SWh/AXN.png" group-title="→ CINE & SERIES HD ←",AXN
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609541&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PHOENIX
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927177&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO LAS CRUCES
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927175&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J5H6tgK/CARTOON-NETWORK.png" group-title="→ INFANTIL & JUVENIL HD ←",CARTOON NETWORK
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609522&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MISSION
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927174&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUDO PEARLAND
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927171&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6c9t82SK/CGTN-Espanol.png" group-title="→ NOTICIAS HD ←",CGTN ESPAÑOL
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609520&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO HOUSTON
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927170&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CHULA VISTA
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927168&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjJ7ZLp7/cine-estrella.png" group-title="→ CINE & SERIES HD ←",CINE ESTRELLA TV
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=1548394&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO SAN ANTONIO
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927163&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO THE COLONY
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927161&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSGR31M/CCL.png" group-title="→ CINE & SERIES HD ←",CINECANAL
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609518&extension=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DYG3p1x/CNN-en-Espa-ol.png" group-title="→ NOTICIAS HD ←",CNN ESPAÑOL
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=753957&extension=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj2jKzzm/dpeliculap.png" group-title="→ CINE & SERIES HD ←",DE PELICULA PLUS
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609509&extension=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvKTxbf/discovery.png" group-title="→ DOCUMENTAL HD ←",DISCOVERY CHANNEL
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609507&extension=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CQ1Md68/Discovery-Home-Health.png" group-title="→ DOCUMENTAL HD ←",DISCOVERY HOME & HEALTH
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609505&extension=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qnjy1sq/Discovery-theater.png" group-title="→ DOCUMENTAL HD ←",DISCOVERY THEATER
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609501&extension=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gFJBLSms/ETV.png" group-title="→ ENTRETENIMIENTO HD ←",ESTRELLA TV
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=1548370&extension=m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO ATLANTA
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927158&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO WORCESTER
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927155&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO BOSTON
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927154&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO NORWALK
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927152&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO HARTFORD
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927149&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PINELLAS PARK
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927148&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MIAMI
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927146&extension=m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO AURORA
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927145&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CHICAGO
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927144&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO TRENTON
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927141&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO LEESBURG
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927140&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PENDLETON
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927138&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO KENNEWICK
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927137&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MEDFORD
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927133&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO BAY CITY
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927100&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO BEND
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927131&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO ST.JOSEPH
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927129&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO BIRMINGHAM
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927103&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO BOSTON
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927154&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CERES
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927195&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CHICAGO
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927144&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CHICO-REDDING
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927127&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO TULSA
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927126&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CHULA VISTA
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927168&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO LINCOLN
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927125&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CLEVELAND
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927104&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO OKLAHOMA CITY
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927123&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CONCORD
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927180&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CORPUS CHRISTI
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927091&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO DAYTONA BEACH
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927120&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO NEW ORLEANS
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927118&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO DENVER
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927191&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO FRESNO
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927098&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO FORT MYERS
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927106&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO HARTFORD
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927149&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO HOUSTON
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927170&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO INCLINE
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927105&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO KANSAS CITY
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927113&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO KENNEWICK
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927137&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO LAS CRUCES
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927175&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO LAS VEGAS
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927197&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO LEESBURG
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927140&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO LINCOLN
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927125&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO LITTLE-ROCK
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927097&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO LOS ANGELES
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927115&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO TEXAS
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927114&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MARANA
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927185&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO KANSAS CITY
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927113&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MEDFORD
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927133&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MIAMI
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927146&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MILWAUKEE
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927101&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MISSION
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927174&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO NASHVILLE
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927102&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO NBC
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927211&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO NETWORK (WEST)
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927092&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO NEW ORLEANS
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927118&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO NORWALK
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927152&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO OKLAHOMA CITY
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927123&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO OMAHA
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927110&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PARKER
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927192&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PEARLAND
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927171&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PENDLETON
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927138&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PHOENIX
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927177&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PINELLAS PARK
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927148&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PUEBLO
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927112&extension=m3u8
@@ -129,41 +200,32 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927112&exten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO SALT LAKE CITY
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927111&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO OMAHA
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927110&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO SAN ANTONIO
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927163&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO SIOUX CITY
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927109&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO FORT MYERS
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927106&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO ST.JOSEPH
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927129&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO INCLINE
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927105&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO TEXAS
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927114&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CLEVELAND
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927104&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO THE COLONY
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927161&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO BIRMINGHAM
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927103&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO TRENTON
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927141&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO NASHVILLE
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927102&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO TULSA
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927126&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO MILWAUKEE
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927101&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO US
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927219&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO BAY CITY
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927100&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO WORCESTER
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927155&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO FRESNO
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927098&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO LITTLE-ROCK
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927097&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO NETWORK (WEST)
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927092&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO CORPUS CHRISTI
-http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927091&extension=m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nn2Wtx/univision.png" group-title="→ ENTRETENIMIENTO HD ←",UNIVISION MIAMI HD
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=654924&extension=m3u8
