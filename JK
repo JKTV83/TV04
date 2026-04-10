@@ -10,6 +10,9 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609545&exten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgHG3Kh/amc.png" group-title="→ CINE & SERIES HD ←",AMC
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609544&extension=m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hgHG3Kh/amc.png" group-title="→ CINE & SERIES HD ←",AMC
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609970&extension=ts&play_token=3ZcnihX0kp
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QJLKPrp/animal-planet.png" group-title="→ DOCUMENTAL HD ←",ANIMAL PLANET
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609543&extension=m3u8
@@ -21,6 +24,10 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609541&exten
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GfxR2Y8d/Azteca-7.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA 7
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609960&extension=ts&play_token=FZVJzrBlt5
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VpTsLn70/uno.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA UNO
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609959&extension=ts&play_token=rELk6GVM58
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J5H6tgK/CARTOON-NETWORK.png" group-title="→ INFANTIL & JUVENIL HD ←",CARTOON NETWORK
@@ -56,6 +63,10 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609505&exten
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qnjy1sq/Discovery-theater.png" group-title="→ DOCUMENTAL HD ←",DISCOVERY THEATER
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609501&extension=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zG2Bjpv/Discovery-Turbo.png" group-title="→ DOCUMENTAL HD ←",DISCOVERY TURBO
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609501&extension=m3u8
 
 
@@ -231,8 +242,10 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927219&exten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6RC5JGkz/Telemundo.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO WORCESTER
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=927155&extension=m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nn2Wtx/univision.png" group-title="→ ENTRETENIMIENTO HD ←",UNIVISION MIAMI HD
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=654924&extension=m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TFxMyDk/elchavo.jpg" group-title="→ SERIE TV ←",EL CHAVO DEL 8
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=1672204&extension=m3u8
