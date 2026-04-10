@@ -19,6 +19,10 @@ http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609543&exten
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609541&extension=m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfxR2Y8d/Azteca-7.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA 7
+http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609960&extension=ts&play_token=FZVJzrBlt5
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/J5H6tgK/CARTOON-NETWORK.png" group-title="→ INFANTIL & JUVENIL HD ←",CARTOON NETWORK
 http://pro.true8k.xyz:80/play/live.php?mac=00:1A:79:85:95:A6&stream=609522&extension=m3u8
 
