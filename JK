@@ -1,6 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jZRVJ6YD/mas.png" group-title="→ CINE & SERIES HD ←",+ MAS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xS9BZYF1/cine.png" group-title="→ CINE & SERIES HD ←",+ CINE HD
+http://38.252.213.12:8000/play/a057
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sppcKM2q/cinec.png" group-title="→ CINE & SERIES HD ←",+ CINE CLASSIC HD
+http://38.252.213.12:8000/play/a05t
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzTR97m5/cinef.png" group-title="→ CINE & SERIES HD ←",+ CINE FAMILY HD
+http://38.252.213.12:8000/play/a06y
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x86wFLxp/cinet.png" group-title="→ CINE & SERIES HD ←",+ CINE TERROR HD
+http://38.252.213.12:8000/play/a00w
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMGkhX6K/cinew.png" group-title="→ CINE & SERIES HD ←",+ CINE WAR HD
+http://38.252.213.12:8000/play/a07n
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZRVJ6YD/mas.png" group-title="→ CINE & SERIES HD ←",+ MAS HD
 http://38.210.105.10:8000/play/a09s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MS7FhN9/Canal-13.png" group-title="→ ENTRETENIMIENTO HD ←",13 CL HD
@@ -500,6 +515,9 @@ http://181.78.192.238:8000/play/a2dk
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT0n4QG1/classic.png" group-title="→ CINE & SERIES HD ←",CLASSIC + HD
 http://38.210.105.10:8000/play/a0au
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT0n4QG1/classic.png" group-title="→ CINE & SERIES HD ←",CLASSIC + HD
+http://38.252.213.12:8000/play/a05u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqjNFb8V/classsics.png" group-title="→ CINE & SERIES HD ←",CLASSIC SERIES HD
 http://38.210.105.10:8000/play/a0at
@@ -1995,6 +2013,9 @@ http://38.199.4.160:93/play/a08x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH2jGYFG/westr.png" group-title="→ CINE & SERIES HD ←",WEST HD
 http://38.210.105.10:8000/play/a0bn
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BH2jGYFG/westr.png" group-title="→ CINE & SERIES HD ←",WEST HD
+http://38.252.213.12:8000/play/a06z
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ ENTRETENIMIENTO HD ←",WILLAX PE HD
