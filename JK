@@ -1520,6 +1520,10 @@ http://103.23.62.238:8000/play/3
 http://181.78.192.238:8000/play/a2cy
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kQK3CtN/jPzcb2S.png" group-title="→ ENTRETENIMIENTO HD ←",TELEARAGUA VE HD
+http://38.210.3.64:8090/play/a0lu
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fWC1m9q/Telecadena.png" group-title="→ ENTRETENIMIENTO HD ←",TELECADENA HN HD
 http://38.52.208.106:8000/play/a05b
 
@@ -1747,6 +1751,10 @@ http://181.78.192.238:8000/play/a2aq
 http://45.188.229.33:8000/play/a1av
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DpN4wHB/tvs.png" group-title="→ ENTRETENIMIENTO HD ←",TVS MARACAY VE HD
+http://38.210.3.64:8090/play/a0lr
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5vyHZ2F/Ty-C-Sports.png" group-title="→ DEPORTES HD ←",TyC SPORTS HD
 http://38.44.109.41:8003/play/a02l
 
@@ -1869,6 +1877,9 @@ http://38.49.128.38:8000/play/a0cf
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH2jGYFG/westr.png" group-title="→ CINE & SERIES HD ←",WEST HD
 http://38.137.192.250:8000/play/a0u2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BH2jGYFG/westr.png" group-title="→ CINE & SERIES HD ←",WEST HD
+http://38.199.4.160:93/play/a08x
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ ENTRETENIMIENTO HD ←",WILLAX PE HD
