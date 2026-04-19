@@ -237,6 +237,10 @@ http://38.44.109.41:8003/play/a033
 http://45.167.253.246:8010/play/a005
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0V8Y5KWG/babanquina.png" group-title="→ ENTRETENIMIENTO HD ←",BELLA ABANQUINA TV HD
+http://173.208.234.68:8000/play/a00b
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PWB61HZ/bandamax.png" group-title="→ MUSICA HD ←",BANDAMAX HD
 http://38.44.109.41:8003/play/a02i
 
@@ -267,6 +271,10 @@ http://186.5.85.187:8000/play/a066
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKQV5Npw/bonitatv.png" group-title="→ NOVELAS HD ←",BONITA TV HD
 http://186.5.85.187:8000/play/a04n
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/27MdQG7Q/campeonestv.png" group-title="→ ENTRETENIMIENTO HD ←",CAMPEONES TV HD
+http://40.160.51.72:8000/play/a00h
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rxkgHdk/CANAL1.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 1 COL HD
@@ -383,6 +391,10 @@ http://170.244.209.30:8000/play/a02h
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HD6C27rx/11hn.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 11 HND HD
 http://181.78.192.238:8000/play/a2cx
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9psv4tM/c11.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 11 NI HD
+http://40.160.51.72:8000/play/a00t
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDwgn0Dt/Canal-12-El-Salvador.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 12 ESA HD
@@ -1282,8 +1294,16 @@ http://38.44.109.41:8003/play/a0ha
 http://45.70.201.253:8889/play/a0dl
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5H7PH39/lrtv.png" group-title="→ DEPORTES HD ←",LA REDONDA TV EC HD
+http://181.119.97.124:8080/play/a00v
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pBMfdBjd/LaTele.png" group-title="→ ENTRETENIMIENTO HD ←",LA TELE PE HD
 http://38.44.109.41:8003/play/a01m
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6N5Vkcb/Latina.png" group-title="→ ENTRETENIMIENTO HD ←",LATINA PE HD
+http://38.44.109.41:8003/play/a0cb
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brVDrzs/Las-Estrellas.png" group-title="→ ENTRETENIMIENTO HD ←",LAS ESTRELLAS HD
@@ -1297,18 +1317,6 @@ http://45.70.201.253:8889/play/a0is
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/brVDrzs/Las-Estrellas.png" group-title="→ ENTRETENIMIENTO HD ←",LAS ESTRELLAS MX HD
 http://38.49.128.38:8000/play/a0le
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5H7PH39/lrtv.png" group-title="→ DEPORTES HD ←",LA REDONDA TV EC HD
-http://181.119.97.124:8080/play/a00v
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pBMfdBjd/LaTele.png" group-title="→ ENTRETENIMIENTO HD ←",LA TELE PE HD
-http://38.44.109.41:8003/play/a01m
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6N5Vkcb/Latina.png" group-title="→ ENTRETENIMIENTO HD ←",LATINA PE HD
-http://38.44.109.41:8003/play/a0cb
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z1sBdzh/lifetime.png" group-title="→ CINE & SERIES HD ←",LIFETIME HD
@@ -2261,7 +2269,13 @@ http://38.44.109.41:8003/play/a032
 http://186.33.45.218:8000/play/a0qy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS + HD
+http://200.41.0.183:58000/play/a07v
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS + HD
 http://204.199.242.203:58000/play/a079
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS + HD
+http://204.199.246.85:58000/play/a001
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DtXnrGQ/6q0Gp9R.png" group-title="→ ENTRETENIMIENTO HD ←",ZARACAY TV EC HD
