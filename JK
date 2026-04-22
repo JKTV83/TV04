@@ -117,6 +117,9 @@ http://38.210.105.10:8000/play/a07p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nTBFRCp/im.png" group-title="→ INFANTIL & JUVENIL HD ←",ANIMOTION HD
 http://38.19.41.46:8000/play/a020
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nTBFRCp/im.png" group-title="→ INFANTIL & JUVENIL HD ←",ANIMOTION MX HD
+http://45.172.92.111:8000/play/a027
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PgscLx6/Antena-Latina.png" group-title="→ ENTRETENIMIENTO HD ←",ANTENA 7 RD HD
 http://170.244.209.30:8000/play/a02j
@@ -160,6 +163,9 @@ http://38.44.109.41:8003/play/a00r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NnN0WNb3/ATV-Sur.png" group-title="→ ENTRETENIMIENTO HD ←",ATV SUR HD
 http://38.137.192.250:8000/play/a05a
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NnN0WNb3/ATV-Sur.png" group-title="→ ENTRETENIMIENTO HD ←",ATV SUR HD
+http://45.173.201.51:4000/play/a0nf
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Df0BPhHn/auratv.png" group-title="→ ENTRETENIMIENTO HD ←",AURA TV PE
@@ -241,7 +247,7 @@ http://45.167.253.246:8010/play/a005
 http://173.208.234.68:8000/play/a00b
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PWB61HZ/bandamax.png" group-title="→ MUSICA HD ←",BANDAMAX HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKQzKVRw/bandamax.png" group-title="→ MUSICA HD ←",BANDAMAX HD
 http://38.44.109.41:8003/play/a02i
 
 
@@ -271,6 +277,10 @@ http://186.5.85.187:8000/play/a066
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKQV5Npw/bonitatv.png" group-title="→ NOVELAS HD ←",BONITA TV HD
 http://186.5.85.187:8000/play/a04n
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wwLkHP5/CADENATV.png" group-title="→ ENTRETENIMIENTO HD ←",CADENA TV PE HD
+http://45.173.201.51:4000/play/a0lk
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27MdQG7Q/campeonestv.png" group-title="→ ENTRETENIMIENTO HD ←",CAMPEONES TV HD
@@ -625,15 +635,24 @@ http://38.210.105.10:8000/play/a0au
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HT0n4QG1/classic.png" group-title="→ CINE & SERIES HD ←",CLASSIC + HD
 http://38.252.213.12:8000/play/a05u
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT0n4QG1/classic.png" group-title="→ CINE & SERIES HD ←",CLASSIC + HD
+http://45.173.201.51:4000/play/a0lo
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqjNFb8V/classsics.png" group-title="→ CINE & SERIES HD ←",CLASSIC SERIES HD
 http://38.210.105.10:8000/play/a0at
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FqfCXLcn/classicw.png" group-title="→ CINE & SERIES HD ←",CLASSIC WESTERN HD
 http://38.210.105.10:8000/play/a0aw
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FqfCXLcn/classicw.png" group-title="→ CINE & SERIES HD ←",CLASSIC WESTERN HD
+http://45.173.201.51:4000/play/a0lp
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1p4r6L/Clover-Channel.png" group-title="→ CINE & SERIES HD ←",CLOVER CHANNEL HD
 http://15.204.146.163:8001/play/a01c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1p4r6L/Clover-Channel.png" group-title="→ CINE & SERIES HD ←",CLOVER CHANNEL HD
+http://186.3.219.66:4000/play/a421
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spH4ZdfC/cnh.png" group-title="→ ENTRETENIMIENTO HD ←",CNH HUANUCO TV HD
@@ -702,6 +721,9 @@ http://205.235.6.29:8000/play/a0x9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QRJ1b5c/De-Pelicula-Plus.png" group-title="→ CINE & SERIES HD ←",DE PELICULA PLUS HD
 http://38.7.195.45:8000/play/a044
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QRJ1b5c/De-Pelicula-Plus.png" group-title="→ CINE & SERIES HD ←",DE PELICULA PLUS HD
+http://45.173.201.51:4000/play/a0lu
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vWHx2B/DHE.png" group-title="→ CINE & SERIES HD ←",DHE HD
@@ -1075,6 +1097,10 @@ http://38.19.41.46:8000/play/a038
 http://103.23.62.238:8000/play/a043
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j9mM4D2Z/folklortv.png" group-title="→ ENTRETENIMIENTO HD ←",FOLKLORE TV PE HD
+http://38.187.3.110:8000/play/a0cb
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G4m903F2/fox-sports-1.png" group-title="→ DEPORTES HD ←",FOX SPORTS HD
 http://45.5.151.62:8000/play/a02q
 
@@ -1159,6 +1185,9 @@ http://45.70.201.253:8889/play/a0g3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/808387g/goldenedge.png" group-title="→ CINE & SERIES HD ←",GOLDEN EDGE MX HD
 http://38.49.128.38:8000/play/a0nh
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7N64jkbY/Golden-Plus.png" group-title="→ CINE & SERIES HD ←",GOLDEN PLUS HD
+http://45.173.201.51:4000/play/a0m8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ndn1fnX7/Golden-Premier.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER
 http://38.7.195.45:8000/play/a04l
@@ -1255,11 +1284,7 @@ http://45.173.231.22:8000/play/a074
 http://45.71.3.38:8000/play/a010
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j9mM4D2Z/folklortv.png" group-title="→ ENTRETENIMIENTO HD ←",FOLKLORE TV PE HD
-http://38.187.3.110:8000/play/a0cb
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/09G88yb/hispan-tv.png" group-title="→ DOCUMENTAL HD ←",HISPANTV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Dq8dtXC/hispan-tv.png" group-title="→ DOCUMENTAL HD ←",HISPANTV HD
 http://45.71.3.38:8000/play/a00t
 
 
@@ -1473,6 +1498,10 @@ http://181.78.192.238:8000/play/a2df
 http://38.95.86.139:61400/play/a06t
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GvHw9tcR/mxc.png" group-title="→ CINE & SERIES HD ←",MX CLASSIC HD
+http://45.173.201.51:4000/play/a0mk
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qkjrMVg/Natgeo.png" group-title="→ DOCUMENTAL HD ←",NAT GEO HD
 http://38.44.109.41:8003/play/a0ht
 
@@ -1588,7 +1617,7 @@ http://38.134.250.110:8000/play/a02c
 http://45.173.229.190:8083/play/a0vq
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQss9LZ/pasiones.png" group-title="→ NOVELAS HD ←",PASIONES HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wrrsBBK1/pasiones.png" group-title="→ NOVELAS HD ←",PASIONES HD
 http://38.44.109.41:8003/play/a0h1
 
 
@@ -2141,6 +2170,9 @@ http://15.204.146.163:8001/play/a00b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20DgtPz8/Unicable.png" group-title="→ ENTRETENIMIENTO HD ←",UNICABLE HD
 http://185.56.109.253:80/Unicable/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20DgtPz8/Unicable.png" group-title="→ ENTRETENIMIENTO HD ←",UNICABLE HD
+http://45.172.92.111:8000/play/a01i
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPwtCVLS/Uni-M-s.png" group-title="→ ENTRETENIMIENTO HD ←",UNIMAS HD
 http://link.iptvn.ru:80/Ext/bttSQHpKsgkY/701
@@ -2287,6 +2319,9 @@ http://38.210.105.10:8000/play/a0bn
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH2jGYFG/westr.png" group-title="→ CINE & SERIES HD ←",WEST HD
 http://38.252.213.12:8000/play/a06z
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ ENTRETENIMIENTO HD ←",WILLAX PE HD
+http://45.173.74.2:2010/play/a077
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c4pVvjZ/willax.png" group-title="→ ENTRETENIMIENTO HD ←",WILLAX PE HD
 http://45.173.231.22:8000/play/a04e
