@@ -589,6 +589,9 @@ http://45.70.201.253:8889/play/a0i3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LDqH8z5Q/cinemadin.png" group-title="→ CINE & SERIES HD ←",CINEMA DINAMITA HD
 http://line.asalico.com:80/play/live.php?mac=00:1A:79:CF:45:35&stream=1951919&extension=ts
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LDqH8z5Q/cinemadin.png" group-title="→ CINE & SERIES HD ←",CINEMA DINAMITA HD
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/9632
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8bRyvMM/Cinemax-LA.png" group-title="→ CINE & SERIES HD ←",CINEMAX ARG HD
 http://45.5.151.62:8000/play/a012
@@ -672,6 +675,13 @@ http://38.44.109.41:8003/play/a01i
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B3wwhtv/Comedy-Central.png" group-title="→ ENTRETENIMIENTO HD ←",COMEDY CENTRAL HD
 http://38.44.109.41:8003/play/a0g9
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twyWGTHk/ce.png" group-title="→ DEPORTES HD ←",COPA ECUADOR HD
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84793
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twyWGTHk/ce.png" group-title="→ DEPORTES HD ←",COPA ECUADOR HD
+http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84794
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvt5PNF2/creolatino.png" group-title="→ CINE & SERIES HD ←",CREO LATINO CINE HD
