@@ -717,6 +717,10 @@ http://38.44.109.41:8003/play/a01i
 http://38.44.109.41:8003/play/a0g9
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJxM6sbg/catv.png" group-title="→ ENTRETENIMIENTO HD ←",COMO ANTES TV HD
+https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/twyWGTHk/ce.png" group-title="→ DEPORTES HD ←",COPA ECUADOR HD
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84793
 
@@ -2174,7 +2178,7 @@ http://45.70.201.253:8889/play/a0ii
 http://38.44.109.41:8003/play/a0et
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDc98fh9/totovision.png" group-title="→ INFANTIL & JUVENIL HD ←",TOTOVISION HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDc98fh9/totovision.png" group-title="→ ENTRETENIMIENTO HD ←",TOTOVISION HD
 http://45.5.118.152:8000/play/a05r
 
 
@@ -2463,7 +2467,7 @@ http://45.173.231.22:8000/play/a050
 http://204.199.242.203:58000/play/a00s
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0yp0wqnV/XTP.png" group-title="→ CINE & SERIES HD ←",XTIMEPLUS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yp0wqnV/XTP.png" group-title="→ CINE & SERIES HD ←",XTIME PLUS HD
 http://45.239.31.254:8000/play/a009
 
 
