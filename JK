@@ -1626,6 +1626,10 @@ http://205.235.6.29:8000/play/a0xw
 http://38.210.105.10:8000/play/a09k
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DG19Lsy/nitrow.png" group-title="→ CINE & SERIES HD ←",NITRO WAR HD
+http://200.63.107.94:8000/play/18
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6LT1kHF/nu9ve.png" group-title="→ ENTRETENIMIENTO HD ←",NU9VE MX HD
 http://38.49.128.38:8000/play/a0ow
 
@@ -2198,6 +2202,9 @@ http://45.186.106.194:9999/play/a06t
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkBYxDT8/tuner.png" group-title="→ CINE & SERIES HD ←",TUNER HD
 http://38.210.105.10:8000/play/a0bf
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBYxDT8/tuner.png" group-title="→ CINE & SERIES HD ←",TUNER HD
+http://200.63.107.94:8000/play/11
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Tb9xR3/logo-tv-en-linea-cusco.png" group-title="→ ENTRETENIMIENTO HD ←",TV EN LINEA CUSCO HD
