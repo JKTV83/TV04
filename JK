@@ -266,8 +266,11 @@ http://173.208.234.68:8000/play/a00b
 http://38.44.109.41:8003/play/a02i
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DgMNsKFD/bein-extra.png" group-title="→ DEPORTES HD ←",BEIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgMNsKFD/bein-extra.png" group-title="→ DEPORTES HD ←",BEIN SPORTS EXTRA HD
 http://45.239.31.254:8000/play/a01o
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgMNsKFD/bein-extra.png" group-title="→ DEPORTES HD ←",BEIN SPORTS EXTRA HD
+http://157.100.54.53:8000/play/a00c
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvZhJ6Kb/bhtv.png" group-title="→ ENTRETENIMIENTO HD ←",BHTV PE HD
