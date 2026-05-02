@@ -272,6 +272,9 @@ http://45.239.31.254:8000/play/a01o
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgMNsKFD/bein-extra.png" group-title="→ DEPORTES HD ←",BEIN SPORTS EXTRA HD
 http://157.100.54.53:8000/play/a00c
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgMNsKFD/bein-extra.png" group-title="→ DEPORTES HD ←",BEIN SPORTS EXTRA HD
+http://205.235.6.29:8000/play/a0ws
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvZhJ6Kb/bhtv.png" group-title="→ ENTRETENIMIENTO HD ←",BHTV PE HD
 http://38.7.101.90:8000/play/a1hn
@@ -708,6 +711,7 @@ http://186.3.219.66:4000/play/a421
 http://38.224.175.2:8000/play/a0ob
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DYG3p1x/CNN-en-Espa-ol.png" group-title="→ NOTICIAS HD ←",CNN ESPAÑOL HD
 http://38.44.109.41:8003/play/a00d
 
@@ -722,6 +726,10 @@ http://38.44.109.41:8003/play/a0g9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dJxM6sbg/catv.png" group-title="→ ENTRETENIMIENTO HD ←",COMO ANTES TV HD
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTNTvdmW/conecta2.png" group-title="→ ENTRETENIMIENTO HD ←",CONECTADO2 TV PE HD
+http://38.224.175.2:8000/play/a0a5
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/twyWGTHk/ce.png" group-title="→ DEPORTES HD ←",COPA ECUADOR HD
@@ -790,7 +798,7 @@ http://45.173.201.51:4000/play/a0lu
 http://45.70.201.253:8889/play/a0ds
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99b6326m/diblutv.png" group-title="→ DEPORTES HD ←",DIBLU TV EC HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99b6326m/diblutv.png" group-title="→ NOTICIAS HD ←",DIBLU TV EC HD
 http://205.235.6.29:8000/play/a0x6
 
 
@@ -1401,10 +1409,10 @@ http://45.239.49.156:8000/play/a0jp
 http://170.244.209.30:8000/play/a13o
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DgQjNjXW/lared.png" group-title="→ ENTRETENIMIENTO HD ←",LA RED CL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgQjNjXW/lared.png" group-title="→ ENTRETENIMIENTO HD ←",LA RED PE HD
 http://38.44.109.41:8003/play/a0ha
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DgQjNjXW/lared.png" group-title="→ ENTRETENIMIENTO HD ←",LA RED CL HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgQjNjXW/lared.png" group-title="→ ENTRETENIMIENTO HD ←",LA RED PE HD
 http://45.70.201.253:8889/play/a0dl
 
 
@@ -1648,6 +1656,10 @@ http://186.5.85.187:8000/play/a04r
 http://45.239.31.254:8000/play/a023
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zH2BjLZZ/oriontv.png" group-title="→ ENTRETENIMIENTO HD ←",ORION TV HUANUCO PE HD
+http://38.224.175.2:8000/play/a0nh
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4n0PDcM9/orotv.png" group-title="→ CINE & SERIES HD ←",ORO TV HD
 https://jmp2.uk/rok-44bdeb3ebdff5ed3b5468ddddfcfbf1b.m3u8
 
@@ -1825,6 +1837,9 @@ http://181.119.97.124:8080/play/a010
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HD6s9xCd/rtvo.png" group-title="→ ENTRETENIMIENTO HD ←",RTV ORIENTE PE HD
 http://38.224.175.2:8000/play/a06n
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6Lv8Mgd/rumbatv.png" group-title="→ MUSICA HD ←",RUMBA TV HD
+http://38.224.175.2:8000/play/a0mb
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6Lv8Mgd/rumbatv.png" group-title="→ MUSICA HD ←",RUMBA TV HD
 http://45.71.3.38:8000/play/a00j
@@ -2499,6 +2514,9 @@ http://204.199.242.203:58000/play/a079
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS + HD
 http://204.199.246.85:58000/play/a001
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS + HD
+http://205.235.6.29:8000/play/a0y3
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DtXnrGQ/6q0Gp9R.png" group-title="→ ENTRETENIMIENTO HD ←",ZARACAY TV EC HD
