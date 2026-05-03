@@ -2434,6 +2434,9 @@ http://38.137.192.250:8000/play/tvsur
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zh8VK2Wq/volver.png" group-title="→ ENTRETENIMIENTO HD ←",VOLVER ARG HD
+http://45.5.149.220:8000/play/a04l
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zh8VK2Wq/volver.png" group-title="→ ENTRETENIMIENTO HD ←",VOLVER ARG HD
 http://45.5.151.62:8000/play/a01c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zh8VK2Wq/volver.png" group-title="→ ENTRETENIMIENTO HD ←",VOLVER ARG HD
