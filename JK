@@ -2439,6 +2439,9 @@ http://45.5.151.62:8000/play/a01c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zh8VK2Wq/volver.png" group-title="→ ENTRETENIMIENTO HD ←",VOLVER ARG HD
 http://181.13.252.102:8000/play/a021
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zh8VK2Wq/volver.png" group-title="→ ENTRETENIMIENTO HD ←",VOLVER ARG HD
+http://186.125.218.189:14000/play/a04t
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QjQrmm10/v-t.png" group-title="→ ENTRETENIMIENTO HD ←",VOZ&TV HD
 http://45.71.3.38:8000/play/a00u
