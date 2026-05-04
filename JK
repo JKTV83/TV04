@@ -178,9 +178,6 @@ http://15.204.146.163:8001/play/a005
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWRVbPP/zgGuCYL.png" group-title="→ ENTRETENIMIENTO HD ←",AUSTRAL TV EC HD
-http://45.71.3.38:8000/play/a00v
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YWRVbPP/zgGuCYL.png" group-title="→ ENTRETENIMIENTO HD ←",AUSTRAL TV EC HD
 http://103.23.62.238:8000/play/a02b
 
 
@@ -291,11 +288,11 @@ http://45.239.49.156:8000/play/a0jj
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/213MfBXD/BTV.png" group-title="→ CINE & SERIES HD ←",BOLLYWOOD TV HD
-http://186.5.85.187:8000/play/a066
+http://186.5.85.187:8000/play/a066/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKQV5Npw/bonitatv.png" group-title="→ NOVELAS HD ←",BONITA TV HD
-http://186.5.85.187:8000/play/a04n
+http://186.5.85.187:8000/play/a04n/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wwLkHP5/CADENATV.png" group-title="→ ENTRETENIMIENTO HD ←",CADENA TV PE HD
@@ -518,6 +515,9 @@ http://45.189.151.7:8000/play/a082
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzMyd9Q/Caracol-TV.png" group-title="→ ENTRETENIMIENTO HD ←",CARACOL TV HD
+http://40.160.51.72:8000/play/a001
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzMyd9Q/Caracol-TV.png" group-title="→ ENTRETENIMIENTO HD ←",CARACOL TV HD
 http://131.221.41.57:8000/play/a08k
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HzMyd9Q/Caracol-TV.png" group-title="→ ENTRETENIMIENTO HD ←",CARACOL TV INT HD
@@ -546,7 +546,7 @@ http://38.44.109.41:8003/play/a0cn
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6c9t82SK/CGTN-Espanol.png" group-title="→ NOTICIAS HD ←",CGTN ESPAÑOL  HD
-http://45.71.3.38:8000/play/a00z
+http://38.224.175.2:8000/play/a05q
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQCxZv6/Chilevisi-n.png" group-title="→ ENTRETENIMIENTO HD ←",CHV HD
@@ -732,6 +732,9 @@ http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84793
 #EXTINF:-1 tvg-logo="https://i.ibb.co/twyWGTHk/ce.png" group-title="→ DEPORTES HD ←",COPA ECUADOR HD
 http://tv.proyectox.vip:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/84794
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvt5PNF2/creolatino.png" group-title="→ CINE & SERIES HD ←",CREO LATINO CINE HD
+http://15.204.146.163:8001/play/a01d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvt5PNF2/creolatino.png" group-title="→ CINE & SERIES HD ←",CREO LATINO CINE HD
 http://186.5.85.187:8000/play/a04x/index.m3u8
@@ -1420,6 +1423,10 @@ http://181.119.97.124:8080/play/a00v
 http://38.44.109.41:8003/play/a01m
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vc4zChQp/lavoz.png" group-title="→ ENTRETENIMIENTO HD ←",LA VOZ CANAL 12 MAJES PE HD
+http://38.137.192.250:8000/play/jokbni9
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6N5Vkcb/Latina.png" group-title="→ ENTRETENIMIENTO HD ←",LATINA PE HD
 http://38.44.109.41:8003/play/a0cb
 
@@ -2006,6 +2013,10 @@ http://38.52.208.106:8000/play/a05b
 http://38.52.208.106:8000/play/a02l
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj5PvZKf/tlcolor.png" group-title="→ ENTRETENIMIENTO HD ←",TELECOLOR PE HD
+http://38.137.192.250:8000/play/telecolor
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WNLxGzjZ/Telefe.png" group-title="→ ENTRETENIMIENTO HD ←",TELEFE ARG HD
 http://38.44.109.41:8003/play/a0ev
 
@@ -2498,6 +2509,9 @@ http://45.173.231.22:8000/play/a04e
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CMKbWVX/Win.png" group-title="→ DEPORTES HD ←",WIN SPORTS HD
 http://45.173.231.22:8000/play/a050
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HFnZTvg/Win-Sports.png" group-title="→ DEPORTES HD ←",WIN SPORTS + HD
+http://40.160.51.72:8000/play/a004
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HFnZTvg/Win-Sports.png" group-title="→ DEPORTES HD ←",WIN SPORTS + HD
 http://204.199.242.203:58000/play/a00s
