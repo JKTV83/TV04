@@ -249,12 +249,12 @@ http://38.44.109.41:8003/play/a033
 http://45.167.253.246:8010/play/a005
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BKQzKVRw/bandamax.png" group-title="→ MUSICA HD ←",BANDAMAX HD
+http://38.211.118.62:50002/play/a0b5
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0V8Y5KWG/babanquina.png" group-title="→ ENTRETENIMIENTO HD ←",BELLA ABANQUINA TV HD
 http://173.208.234.68:8000/play/a00b
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BKQzKVRw/bandamax.png" group-title="→ MUSICA HD ←",BANDAMAX HD
-http://38.44.109.41:8003/play/a02i
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgMNsKFD/bein-extra.png" group-title="→ DEPORTES HD ←",BEIN SPORTS EXTRA HD
@@ -907,8 +907,14 @@ http://38.190.101.128:2233/play/a1ez
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DSPORTS + HD
 http://45.239.49.156:8000/play/a0jb
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DSPORTS + HD
+http://199.188.103.176:8000/play/a046
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fGXqR1m/DSports2.png" group-title="→ DEPORTES HD ←",DSPORTS 2 HD
 http://45.239.49.156:8000/play/a0jc
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fGXqR1m/DSports2.png" group-title="→ DEPORTES HD ←",DSPORTS 2 HD
+http://199.188.103.176:8000/play/a045
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bwkx1NW/DW.png" group-title="→ NOTICIAS HD ←",DW HD
@@ -2485,6 +2491,10 @@ http://38.95.86.139:61400/play/a042
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TRhTRNw/warner-tv.png" group-title="→ CINE & SERIES HD ←",WARNER TV MX HD
 http://38.49.128.38:8000/play/a0cf
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5XqL3JKn/west.png" group-title="→ CINE & SERIES HD ←",WEST HD
+http://38.252.215.33:8000/play/a01r
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BH2jGYFG/westr.png" group-title="→ CINE & SERIES HD ←",WEST HD
