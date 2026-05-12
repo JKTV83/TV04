@@ -18,6 +18,9 @@ http://38.252.213.12:8000/play/a07n
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZRVJ6YD/mas.png" group-title="→ CINE & SERIES HD ←",+ MAS HD
 http://38.210.105.10:8000/play/a09s
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jZRVJ6YD/mas.png" group-title="→ CINE & SERIES HD ←",+ MAS HD
+http://200.63.107.94:8000/play/a02i
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MS7FhN9/Canal-13.png" group-title="→ ENTRETENIMIENTO HD ←",13 CL HD
 http://38.44.109.41:8003/play/a0g6
 
@@ -241,6 +244,9 @@ http://38.137.192.250:8000/play/afdf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PNsBQLD/Azteca-Cinema.png" group-title="→ CINE & SERIES HD ←",AZTECA CINEMA
 http://45.173.74.2:2010/play/a07l
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNsBQLD/Azteca-Cinema.png" group-title="→ CINE & SERIES HD ←",AZTECA CINEMA
+http://200.63.107.94:8000/play/a01f
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qmHFCG0/Azteca-Clic.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA CLICK HD
 http://38.49.128.38:8000/play/a0mh
 
@@ -289,6 +295,9 @@ http://157.100.54.53:8000/play/a00c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgMNsKFD/bein-extra.png" group-title="→ DEPORTES HD ←",BEIN SPORTS EXTRA HD
 http://205.235.6.29:8000/play/a0ws
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgMNsKFD/bein-extra.png" group-title="→ DEPORTES HD ←",BEIN SPORTS EXTRA HD
+http://200.63.107.94:8000/play/a01k
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvZhJ6Kb/bhtv.png" group-title="→ ENTRETENIMIENTO HD ←",BHTV PE HD
 http://38.7.101.90:8000/play/a1hn
@@ -300,6 +309,9 @@ http://38.44.109.41:8003/play/a00f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fzQMMp3T/blu.png" group-title="→ ENTRETENIMIENTO HD ←",BLU TV HD
 http://38.210.105.10:8000/play/a09p
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fzQMMp3T/blu.png" group-title="→ ENTRETENIMIENTO HD ←",BLU TV HD
+http://200.63.107.94:8000/play/a02u
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdQcYjz/Bolivia-Tv.png" group-title="→ ENTRETENIMIENTO HD ←",BOLIVIA TV HD
@@ -927,6 +939,14 @@ http://45.173.231.22:8000/play/a0cc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dmNJv4F/dc.png" group-title="→ ENTRETENIMIENTO HD ←",DISTRITO COMEDIA HD
 http://103.23.62.238:8000/play/a055
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VcMSyCtr/DOBLE-C-LA-RED.png" group-title="→ ENTRETENIMIENTO HD ←",DOBLE C LA RED
+http://200.63.107.94:8000/play/a02p
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYhyyKYg/DOBLE-C.png" group-title="→ ENTRETENIMIENTO HD ←",DOBLE C TV PE HD
+http://200.63.107.94:8000/play/a02o
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VY45DRYt/dodotv.png" group-title="→ ENTRETENIMIENTO HD ←",DODO TV CL HD
@@ -1616,9 +1636,16 @@ http://45.186.106.194:9999/play/a008
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXFGRSGT/mipelicula.png" group-title="→ CINE & SERIES HD ←",MI PELICULA HD
 http://38.210.105.10:8000/play/a09l
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXFGRSGT/mipelicula.png" group-title="→ CINE & SERIES HD ←",MI PELICULA HD
+http://200.63.107.94:8000/play/a02n
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5z1vKW6/monitor.png" group-title="→ ENTRETENIMIENTO HD ←",MONITOR TV PE HD
 http://15.204.146.163:8001/play/a004
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNNmdQnC/morenita.png" group-title="→ NOVELAS HD ←",MORENITA TV HD
+http://200.63.107.94:8000/play/a02r
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cSqcWkd8/moscowtv.png" group-title="→ CINE & SERIES HD ←",MOSCOW TV HD
@@ -1722,9 +1749,19 @@ http://205.235.6.29:8000/play/a0xw
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nrnzKTLK/Nitro.png" group-title="→ CINE & SERIES HD ←",NITRO LATINO HD
 http://38.210.105.10:8000/play/a09k
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrnzKTLK/Nitro.png" group-title="→ CINE & SERIES HD ←",NITRO LATINO HD
+http://200.63.107.94:8000/play/a02l
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RfFKkhJ/nitrom.png" group-title="→ CINE & SERIES HD ←",NITRO MOVIES HD
+http://200.63.107.94:8000/play/a02m
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8DG19Lsy/nitrow.png" group-title="→ CINE & SERIES HD ←",NITRO WAR HD
 http://200.63.107.94:8000/play/18
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DG19Lsy/nitrow.png" group-title="→ CINE & SERIES HD ←",NITRO WAR HD
+http://200.63.107.94:8000/play/a02k
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RTPJp0fX/NSTV.png" group-title="→ CINE & SERIES HD ←",NSTV COL HD
@@ -1818,6 +1855,9 @@ http://45.172.92.111:8000/play/a035
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0RLKLsWY/ps.png" group-title="→ DOCUMENTAL HD ←",PLANETA SALVAJE HD
 http://45.172.92.111:8000/play/a047
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0RLKLsWY/ps.png" group-title="→ DOCUMENTAL HD ←",PLANETA SALVAJE HD
+http://200.63.107.94:8000/play/a010
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Rm5Zt8v/Pocorn-Central.png" group-title="→ ENTRETENIMIENTO HD ←",POPCORN CENTRAL HD
@@ -2106,6 +2146,10 @@ http://181.78.192.238:8000/play/a2cy
 http://38.210.3.64:8090/play/a0lu
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWcz9J2p/telecable.png" group-title="→ ENTRETENIMIENTO HD ←",TELECABLE TV HD
+http://200.63.107.94:8000/play/a02v
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fWC1m9q/Telecadena.png" group-title="→ ENTRETENIMIENTO HD ←",TELECADENA HN HD
 http://38.52.208.106:8000/play/a05b
 
@@ -2185,6 +2229,10 @@ http://38.95.86.139:61400/play/a07a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35bBtdgY/telemundo-puerto-rico.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PR HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jyhPYcn/tlnx.png" group-title="→ ENTRETENIMIENTO HD ←",TELE NEXT HD
+http://200.63.107.94:8000/play/a02q
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HDNyms8/nord.png" group-title="→ ENTRETENIMIENTO HD ←",TELENORD 8 RD HD
@@ -2355,6 +2403,9 @@ http://38.210.105.10:8000/play/a0bf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkBYxDT8/tuner.png" group-title="→ CINE & SERIES HD ←",TUNER HD
 http://200.63.107.94:8000/play/11
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkBYxDT8/tuner.png" group-title="→ CINE & SERIES HD ←",TUNER HD
+http://200.63.107.94:8000/play/a02j
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Tb9xR3/logo-tv-en-linea-cusco.png" group-title="→ ENTRETENIMIENTO HD ←",TV EN LINEA CUSCO HD
 http://38.137.192.250:8000/play/a0b3
@@ -2434,6 +2485,9 @@ http://38.44.109.41:8003/play/a02l
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5vyHZ2F/Ty-C-Sports.png" group-title="→ DEPORTES HD ←",TyC SPORTS HD
 http://45.173.231.22:8000/play/a08y
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B5vyHZ2F/Ty-C-Sports.png" group-title="→ DEPORTES HD ←",TyC SPORTS HD
+http://200.63.107.94:8000/play/a039
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wp0n5JLZ/ucayali.png" group-title="→ ENTRETENIMIENTO HD ←",UCAYALI TV PE HD
@@ -2537,6 +2591,9 @@ http://45.186.106.194:9999/play/a065
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nn2Wtx/univision.png" group-title="→ ENTRETENIMIENTO HD ←",UNIVISION HD
 http://170.244.209.30:8000/play/a04a
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nn2Wtx/univision.png" group-title="→ ENTRETENIMIENTO HD ←",UNIVISION HD
+http://200.63.107.94:8000/play/a01x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1nn2Wtx/univision.png" group-title="→ ENTRETENIMIENTO HD ←",UNIVISION MIAMI HD
 http://45.5.117.57:8200/play/a05b
