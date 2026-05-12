@@ -858,6 +858,9 @@ http://38.7.195.45:8000/play/a044
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QRJ1b5c/De-Pelicula-Plus.png" group-title="→ CINE & SERIES HD ←",DE PELICULA PLUS HD
 http://45.173.201.51:4000/play/a0lu
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QRJ1b5c/De-Pelicula-Plus.png" group-title="→ CINE & SERIES HD ←",DE PELICULA PLUS HD
+http://201.151.118.136:8000/play/a006
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vWHx2B/DHE.png" group-title="→ CINE & SERIES HD ←",DHE HD
 http://45.70.201.253:8889/play/a0ds
@@ -1350,6 +1353,9 @@ http://38.49.128.38:8000/play/a0nh
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7N64jkbY/Golden-Plus.png" group-title="→ CINE & SERIES HD ←",GOLDEN PLUS HD
 http://45.173.201.51:4000/play/a0m8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7N64jkbY/Golden-Plus.png" group-title="→ CINE & SERIES HD ←",GOLDEN PLUS HD
+http://201.151.118.136:8000/play/a00b
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ndn1fnX7/Golden-Premier.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER
 http://38.7.195.45:8000/play/a04l
 
@@ -1484,6 +1490,9 @@ http://161.132.68.68:8000/play/a007
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7YPCzLR/imagen.png" group-title="→ ENTRETENIMIENTO HD ←",IMAGEN TV MX HD
 http://45.167.253.246:8010/play/a00k
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7YPCzLR/imagen.png" group-title="→ ENTRETENIMIENTO HD ←",IMAGEN TV MX HD
+http://201.151.118.136:8000/play/a001
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6Wgxbf6/inkavision.png" group-title="→ ENTRETENIMIENTO HD ←",INKA VISION HD
@@ -2396,6 +2405,9 @@ http://45.186.106.194:9999/play/a06t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PsLVGYnZ/TUDN.png" group-title="→ DEPORTES HD ←",TUDN HD
 http://179.60.224.196:8000/play/a0f4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsLVGYnZ/TUDN.png" group-title="→ DEPORTES HD ←",TUDN HD
+http://201.151.118.136:8000/play/a00g
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkBYxDT8/tuner.png" group-title="→ CINE & SERIES HD ←",TUNER HD
 http://38.210.105.10:8000/play/a0bf
@@ -2517,6 +2529,9 @@ http://45.172.92.111:8000/play/a01i
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20DgtPz8/Unicable.png" group-title="→ ENTRETENIMIENTO HD ←",UNICABLE HD
 http://45.186.106.194:9999/play/a06p
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/20DgtPz8/Unicable.png" group-title="→ ENTRETENIMIENTO HD ←",UNICABLE HD
+http://201.151.118.136:8000/play/a00j
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPwtCVLS/Uni-M-s.png" group-title="→ ENTRETENIMIENTO HD ←",UNIMAS HD
