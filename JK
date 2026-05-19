@@ -2958,6 +2958,9 @@ http://38.44.109.41:8003/play/a01j
 http://179.60.191.102:8000/play/a0in
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS + HD
+http://181.78.192.238:8000/play/a2hc
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS + HD
 http://186.33.45.218:8000/play/a0qy/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS + HD
