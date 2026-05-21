@@ -424,6 +424,10 @@ http://181.78.106.127:5000/play/ca005
 http://181.78.192.238:8000/play/a2bh
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KdNyvjp/c5.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 5 ESQUIPULAS GT HD
+http://190.83.9.222:8000/play/ca016
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WfWqGPj/5.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 5 MX HD
 http://38.49.128.38:8000/play/a0n6
 
@@ -600,6 +604,10 @@ http://181.78.192.238:8000/play/a2dl
 http://45.5.118.152:8000/play/a0c1
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0RzFx7cV/cnx.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL NEXT PY HD
+http://190.97.234.173:8000/play/a0oz
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcnR7Myv/cantinatv.png" group-title="→ MUSICA HD ←",CANTINA TV HD
 http://45.189.151.7:8000/play/a082
 
@@ -646,6 +654,10 @@ http://38.44.109.41:8003/play/a0cn
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6c9t82SK/CGTN-Espanol.png" group-title="→ NOTICIAS HD ←",CGTN ESPAÑOL  HD
 http://38.224.175.2:8000/play/a05q
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JR05Y22r/chtv.png" group-title="→ ENTRETENIMIENTO HD ←",CHANMAGUA TV GT HD
+http://190.83.9.222:8000/play/ca022
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQCxZv6/Chilevisi-n.png" group-title="→ ENTRETENIMIENTO HD ←",CHV HD
@@ -1050,7 +1062,7 @@ http://38.210.105.10:8000/play/a0ai
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DSPORTS HD
 http://190.60.44.98:9000/play/a00k
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DSPORTS HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DSPORTS EC HD
 http://190.61.42.218:9000/play/a0a9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES HD ←",DSPORTS + HD
