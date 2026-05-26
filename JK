@@ -37,6 +37,9 @@ http://38.224.22.252:8000/play/a05b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQbfKMHw/A3Cine.png" group-title="→ CINE & SERIES HD ←",A3CINE HD
 http://170.244.209.30:8000/play/a13x
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQbfKMHw/A3Cine.png" group-title="→ CINE & SERIES HD ←",A3CINE HD
+http://200.115.96.61:9090/play/a00p
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZHt8JGP/a-y-e.png" group-title="→ CINE & SERIES HD ←",A&E HD
 http://38.44.109.41:8003/play/a0c3
@@ -53,8 +56,14 @@ http://179.60.224.196:8000/play/a0e2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx7D34x5/A.png" group-title="→ ENTRETENIMIENTO HD ←",A MAS GUATE HD
 http://181.78.192.238:8000/play/a2by
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx7D34x5/A.png" group-title="→ ENTRETENIMIENTO HD ←",A MAS GUATE HD
+http://200.115.96.61:9090/play/a0jc
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx7D34x5/A.png" group-title="→ ENTRETENIMIENTO HD ←",A MAS MX HD
 http://45.167.253.246:8010/play/a00p
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx7D34x5/A.png" group-title="→ ENTRETENIMIENTO HD ←",A MAS MX HD
+http://200.115.96.61:9090/play/a0ji
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4jwQSwP/aldiatv.png" group-title="→ ENTRETENIMIENTO HD ←",AL DIA TV NI HD
@@ -151,6 +160,10 @@ http://170.244.209.30:8000/play/a02j
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PgscLx6/Antena-Latina.png" group-title="→ ENTRETENIMIENTO HD ←",ANTENA 7 RD HD
 http://181.78.192.238:8000/play/a2cz
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMsB45Vf/a21.png" group-title="→ ENTRETENIMIENTO HD ←",ANTENA 21 RD HD
+http://200.69.80.179:5050/play/a17l
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHWyzKQ0/antenareg.png" group-title="→ ENTRETENIMIENTO HD ←",ANTENA REGIONAL TV HD
@@ -463,6 +476,9 @@ http://170.244.209.30:8000/play/a03i
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5G7cRQW/Teletica7.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 7 TELETICA CR HD
 http://45.163.139.42:8000/play/a02k
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5G7cRQW/Teletica7.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 7 TELETICA CR HD
+http://200.69.80.179:5050/play/a168
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/P1t9cTj/Canal7GT.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 7 GT HD
 http://170.244.209.30:8000/play/a05i
@@ -520,8 +536,15 @@ http://181.78.192.238:8000/play/a2cx
 http://40.160.51.72:8000/play/a00t
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MD1DZ31w/Tutvcanal11.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 11 TUTV ESA HD
+http://200.69.80.179:5050/play/a0wa
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDwgn0Dt/Canal-12-El-Salvador.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 12 ESA HD
 http://181.78.192.238:8000/play/a2c3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDwgn0Dt/Canal-12-El-Salvador.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 12 ESA HD
+http://200.69.80.179:5050/play/a17j
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tTLYPkxC/Nicavision.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 12 NI HD
@@ -922,10 +945,10 @@ http://38.137.192.250:8000/play/cvmseries
 http://38.137.192.250:8000/play/okok
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgyBvnCH/DTV.png" group-title="→ DOCUMENTAL HD ←",D TELEVISION HN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgyBvnCH/DTV.png" group-title="→ ENTRETENIMIENTO HD ←",D TELEVISION HN HD
 http://181.114.57.246:4000/play/23Bp6Sqv99nCx5s6
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgyBvnCH/DTV.png" group-title="→ DOCUMENTAL HD ←",D TELEVISION HN HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgyBvnCH/DTV.png" group-title="→ ENTRETENIMIENTO HD ←",D TELEVISION HN HD
 http://200.59.188.3:8000/play/a19r
 
 
@@ -1640,6 +1663,10 @@ http://190.117.20.37:8000/play/a0d5
 http://38.210.105.10:8000/play/a0bk
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4xXt3pc/itv.png" group-title="→ ENTRETENIMIENTO HD ←",INNOVACION TV HD
+http://200.115.96.61:9090/play/a0h7
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fVJR3yCJ/intalnet.png" group-title="→ ENTRETENIMIENTO HD ←",INTALNET TV CANAL 4 HD
 http://38.211.118.59:50002/play/a0a2
 
@@ -1820,6 +1847,10 @@ http://200.63.107.94:8000/play/a02r
 http://186.5.85.187:8000/play/a05l/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPfs97JH/moviep.png" group-title="→ CINE & SERIES HD ←",MOVIE PLAY HD
+http://200.69.80.179:5050/play/a1am
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4bXNQFW/Movistar-TV.png" group-title="→ DEPORTES HD ←",MOVISTAR DEPORTES HD
 http://15.204.146.163:8001/play/d00m
 
@@ -1892,6 +1923,9 @@ http://181.78.8.199:8000/play/a0ig
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Vb5Xnh/nxep.png" group-title="→ CINE & SERIES HD ←",NEXT EPISODE HD
 http://186.5.85.187:8000/play/a04c/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGKqs9d/nexteca.png" group-title="→ CINE & SERIES HD ←",NEXTECA HN HD
+http://200.115.96.61:9090/play/a0hu
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGKqs9d/nexteca.png" group-title="→ CINE & SERIES HD ←",NEXTECA HN HD
 http://200.115.98.26:9000/play/a03z
@@ -2096,11 +2130,17 @@ http://38.52.208.106:8000/play/a03o
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7cvDcCQ/Repretel-Canal4.png" group-title="→ ENTRETENIMIENTO HD ←",REPRETEL 4 HD
 http://170.244.209.30:8000/play/a05s
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7cvDcCQ/Repretel-Canal4.png" group-title="→ ENTRETENIMIENTO HD ←",REPRETEL 4 HD
+http://200.69.80.179:5050/play/a17h
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVzWCWj/Repretel-Canal6.png" group-title="→ ENTRETENIMIENTO HD ←",REPRETEL 6 HD
 http://38.52.208.106:8000/play/a02p
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVzWCWj/Repretel-Canal6.png" group-title="→ ENTRETENIMIENTO HD ←",REPRETEL 6 HD
 http://181.78.192.238:8000/play/a2ce
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GVzWCWj/Repretel-Canal6.png" group-title="→ ENTRETENIMIENTO HD ←",REPRETEL 6 HD
+http://200.69.80.179:5050/play/a0th
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZNtLsD7/Repretel-Canal11.png" group-title="→ ENTRETENIMIENTO HD ←",REPRETEL 11 HD
 http://38.52.208.106:8000/play/a02q
@@ -2494,6 +2534,10 @@ http://181.78.8.199:8000/play/a0dg
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjZCHmZV/telerama.png" group-title="→ ENTRETENIMIENTO HD ←",TELERAMA EC HD
 http://205.235.6.29:8000/play/a0va
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQk3tbB8/Tele-Rebelde.png" group-title="→ DEPORTES HD ←",TELEREBELDE CU HD
+http://200.69.80.179:5050/play/a1et
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35TDrtgN/tlred.png" group-title="→ ENTRETENIMIENTO HD ←",TELERED CR HD
