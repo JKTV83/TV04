@@ -39,6 +39,18 @@ http://45.172.92.111:8000/play/a04d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rfXLDh4v/0004.png" group-title="→ CINE & SERIES HD ←",AVI REWIND
 http://45.239.31.254:8000/play/a007
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5X3r4HBC/0049.png" group-title="→ CINE & SERIES HD ←",AXN
+http://38.44.109.41:8003/play/a0fe
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5X3r4HBC/0049.png" group-title="→ CINE & SERIES HD ←",AXN
+http://38.44.109.41:8003/play/a0i0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5X3r4HBC/0049.png" group-title="→ CINE & SERIES HD ←",AXN
+http://45.70.201.253:8889/play/a0i6
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5X3r4HBC/0049.png" group-title="→ CINE & SERIES HD ←",AXN MX
+http://38.49.128.38:8000/play/a08w
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GfQN9hzq/0029.png" group-title="→ CINE & SERIES HD ←",CLASSIC WESTERN
 http://38.210.105.10:8000/play/a0aw
 
@@ -110,6 +122,63 @@ http://45.70.201.253:8889/play/a0cs
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zTNXzyfM/0036.png" group-title="→ DEPORTES HD ←",ESPN 3
 http://38.44.109.41:8003/play/a0gq
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTNXzyfM/0036.png" group-title="→ DEPORTES HD ←",ESPN 3
+http://45.70.201.253:8889/play/a0gk
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgHg3pZC/0037.png" group-title="→ DEPORTES HD ←",ESPN 4
+http://38.44.109.41:8003/play/a0i4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgHg3pZC/0037.png" group-title="→ DEPORTES HD ←",ESPN 4
+http://45.70.201.81:8000/play/a00c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bgHg3pZC/0037.png" group-title="→ DEPORTES HD ←",ESPN 4
+http://45.70.201.253:8889/play/a0i9
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ng6qdqm/0038.png" group-title="→ DEPORTES HD ←",ESPN 5
+http://38.44.109.41:8003/play/a0g0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ng6qdqm/0038.png" group-title="→ DEPORTES HD ←",ESPN 5
+http://38.44.109.41:8003/play/a0ge
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ng6qdqm/0038.png" group-title="→ DEPORTES HD ←",ESPN 5
+http://45.70.201.81:8000/play/a00e
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ng6qdqm/0038.png" group-title="→ DEPORTES HD ←",ESPN 5
+http://45.70.201.253:8889/play/a0gd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fB7zLBh/0039.png" group-title="→ DEPORTES HD ←",ESPN 6
+http://38.44.109.41:8003/play/a0gm
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fB7zLBh/0039.png" group-title="→ DEPORTES HD ←",ESPN 6
+http://45.70.201.81:8000/play/a00f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fB7zLBh/0039.png" group-title="→ DEPORTES HD ←",ESPN 6
+http://45.70.201.253:8889/play/a0ht
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fB7zLBh/0039.png" group-title="→ DEPORTES HD ←",ESPN 6
+http://45.173.229.190:8083/play/a0jp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSHzzzBZ/0040.png" group-title="→ DEPORTES HD ←",ESPN 7
+http://38.44.109.41:8003/play/a0hx
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSHzzzBZ/0040.png" group-title="→ DEPORTES HD ←",ESPN 7
+http://38.44.109.41:8003/play/a0ci
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSHzzzBZ/0040.png" group-title="→ DEPORTES HD ←",ESPN 7
+http://45.70.201.253:8889/play/a0ge
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxf9y0fb/0041.png" group-title="→ DEPORTES HD ←",ESPN PREMIUM
+http://38.44.109.41:8003/play/a0hg
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxf9y0fb/0041.png" group-title="→ DEPORTES HD ←",ESPN PREMIUM
+http://38.44.109.41:8003/play/a0hm
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxf9y0fb/0041.png" group-title="→ DEPORTES HD ←",ESPN PREMIUM
+http://45.70.201.253:8889/play/a0it
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxf9y0fb/0041.png" group-title="→ DEPORTES HD ←",ESPN PREMIUM ARG
+http://45.5.151.62:8000/play/a02o
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1GDbFpz3/0011.png" group-title="→ DEPORTES HD ←",TNT SPORTS PREMIUM ARG
 http://205.235.6.29:8000/play/a0ws
 
@@ -129,6 +198,9 @@ http://45.70.201.81:8000/play/a005
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6Rm6mVJ3/0030.png" group-title="→ DOCUMENTAL HD ←",ANIMAL PLANET
 http://45.70.201.253:8889/play/a0hv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvQmYk4L/0043.png" group-title="→ DOCUMENTAL HD ←",ATLAS TV
+http://38.19.41.46:8000/play/a039
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20HLxs5Q/0012.png" group-title="→ DOCUMENTAL HD ←",DCREO TV
 http://186.5.85.187:8000/play/a04o/index.m3u8
@@ -194,6 +266,42 @@ http://38.210.4.182:8000/play/a0y9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZyvwKfb/0033.png" group-title="→ ENTRETENIMIENTO HD ←",ANTENA UNO PE
 http://200.60.124.25:8000/play/a0kp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HfRJwddH/0044.png" group-title="→ ENTRETENIMIENTO HD ←",ATRES
+http://38.44.109.41:8003/play/a0fu
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zW6Z2yVj/0045.png" group-title="→ ENTRETENIMIENTO HD ←",ATRES SERIES
+http://45.70.201.253:8889/play/a0dj
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMcpjf28/0046.png" group-title="→ ENTRETENIMIENTO HD ←",ATV PE
+http://38.44.109.41:8003/play/a0fp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMcpjf28/0046.png" group-title="→ ENTRETENIMIENTO HD ←",ATV PE
+http://148.222.230.197:8000/play/a0g8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0Qtg44s/0047.png" group-title="→ ENTRETENIMIENTO HD ←",ATV SUR
+http://38.137.192.250:8000/play/a05a
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0Qtg44s/0047.png" group-title="→ ENTRETENIMIENTO HD ←",ATV SUR
+http://45.173.201.51:4000/play/a0nf
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW8St3mg/0048.png" group-title="→ ENTRETENIMIENTO HD ←",AURA TV PE
+http://15.204.146.163:8001/play/a005
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW8St3mg/0048.png" group-title="→ ENTRETENIMIENTO HD ←",AURA TV PE
+http://147.135.114.221:8001/play/a005
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW8St3mg/0048.png" group-title="→ ENTRETENIMIENTO HD ←",AURA TV PE
+http://200.60.124.25:8000/play/a0ka
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/205T0hG1/0050.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA 7
+http://38.49.128.38:8000/play/a0la
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JR77jn92/0042.png" group-title="→ ENTRETENIMIENTO HD ←",ESTRELLA TV
+http://38.95.86.139:61400/play/a06x
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JR77jn92/0042.png" group-title="→ ENTRETENIMIENTO HD ←",ESTRELLA TV
+http://line.asalico.com:80/play/live.php?mac=00:1A:79:CF:45:35&stream=1920285&extension=ts
 
 
 
