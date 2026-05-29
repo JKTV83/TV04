@@ -318,6 +318,9 @@ http://103.23.62.238:8000/play/a02b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/205T0hG1/0050.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA 7
 http://38.49.128.38:8000/play/a0la
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/205T0hG1/0050.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA 7
+http://45.167.253.246:8010/play/a00o
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JR77jn92/0042.png" group-title="→ ENTRETENIMIENTO HD ←",ESTRELLA TV
 http://38.95.86.139:61400/play/a06x
 
