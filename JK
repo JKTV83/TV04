@@ -86,6 +86,12 @@ http://45.173.231.22:8000/play/a0dd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SD8YGhmN/0010.png" group-title="→ DEPORTES HD ←",BEIN SPORTS EXTRA
 http://45.239.31.254:8000/play/a01o
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/60W3bp07/0091.png" group-title="→ DEPORTES HD ←",CLARO SPORTS
+http://181.78.192.238:8000/play/a2dj
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N268kc8K/0092.png" group-title="→ DEPORTES HD ←",CLARO SPORTS 2
+http://181.78.192.238:8000/play/a2dk
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xx3b4dxt/0080.png" group-title="→ DEPORTES HD ←",DSPORTS
 http://15.204.146.163:8001/play/a00m
 
@@ -100,6 +106,9 @@ http://45.173.231.22:8000/play/a0de
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xx3b4dxt/0080.png" group-title="→ DEPORTES HD ←",DSPORTS
 http://45.173.231.22:8000/play/a0dq
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xx3b4dxt/0080.png" group-title="→ DEPORTES HD ←",DSPORTS
+http://157.100.9.51:8000/play/abc1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xx3b4dxt/0080.png" group-title="→ DEPORTES HD ←",DSPORTS
 http://190.60.44.98:9000/play/a00k
@@ -118,6 +127,9 @@ http://45.173.231.22:8000/play/a0dr
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TJVK0bD/0081.png" group-title="→ DEPORTES HD ←",DSPORTS 2
 http://45.173.231.22:8000/play/a0ds
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TJVK0bD/0081.png" group-title="→ DEPORTES HD ←",DSPORTS 2 EC
+http://157.100.9.51:8000/play/a25c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TJVK0bD/0081.png" group-title="→ DEPORTES HD ←",DSPORTS 2
 http://190.60.44.98:9000/play/a00l
@@ -150,7 +162,37 @@ http://45.173.231.22:8000/play/a00q
 http://45.188.229.33:8000/play/a0vx
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
+http://157.100.9.51:8000/play/a1vp
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
+http://170.82.113.51:8899/play/a0j1
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
+http://179.49.201.100:8000/play/a0kq
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
+http://179.60.190.252:8000/play/a0es
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
 http://181.78.192.238:8000/play/a1uy
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
+http://181.224.89.128:5180/play/a1no
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
+http://186.5.77.99:8000/play/a0f5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
+http://186.33.45.218:8000/play/a0qz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
+http://186.33.47.113:8000/play/a04u
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
+http://190.83.15.112:8000/play/a00p
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
+http://www.clientes.scn.ec:8000/play/a0kq
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20n5dN3q/0034.png" group-title="→ DEPORTES HD ←",ESPN
 http://38.44.109.41:8003/play/a0e6
@@ -285,6 +327,9 @@ http://38.44.109.41:8003/play/a01j
 http://45.173.231.22:8000/play/a0d9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
+http://157.100.9.51:8000/play/abcd2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
 http://179.60.191.102:8000/play/a0in
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
@@ -294,7 +339,13 @@ http://181.78.192.238:8000/play/a2hc
 http://204.199.242.203:58000/play/a079
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
+http://204.199.242.203:58000/play/a096
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
 http://204.199.246.85:58000/play/a001
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
+http://205.235.6.29:8000/play/a0nq
 
 
 
@@ -507,6 +558,9 @@ http://45.70.201.253:8889/play/a0j0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhp7Chkj/0083.png" group-title="→ ENTRETENIMIENTO HD ←",ECUAVISA EC
 http://45.70.201.253:8889/play/a0ex
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhp7Chkj/0083.png" group-title="→ ENTRETENIMIENTO HD ←",ECUAVISA EC
+http://205.235.6.29:8000/play/a0zw
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JR77jn92/0042.png" group-title="→ ENTRETENIMIENTO HD ←",ESTRELLA TV
 http://38.95.86.139:61400/play/a06x
 
@@ -515,6 +569,12 @@ http://line.asalico.com:80/play/live.php?mac=00:1A:79:CF:45:35&stream=1920285&ex
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxJ7Mvbj/0089.png" group-title="→ ENTRETENIMIENTO HD ←",OROMAR TV
 http://45.188.229.33:8000/play/a0yb
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxJ7Mvbj/0089.png" group-title="→ ENTRETENIMIENTO HD ←",OROMAR TV
+http://157.100.9.51:8000/play/a1yt
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxJ7Mvbj/0089.png" group-title="→ ENTRETENIMIENTO HD ←",OROMAR TV
+http://177.234.234.170:4000/play/a0r5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMv7bG9G/0084.png" group-title="→ ENTRETENIMIENTO HD ←",TELEAMAZONAS EC
 http://38.44.109.41:8003/play/a0e8
@@ -527,6 +587,18 @@ http://45.70.201.253:8889/play/a0ey
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMv7bG9G/0084.png" group-title="→ ENTRETENIMIENTO HD ←",TELEAMAZONAS EC
 http://103.23.62.238:8000/play/3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMv7bG9G/0084.png" group-title="→ ENTRETENIMIENTO HD ←",TELEAMAZONAS EC
+http://205.235.6.29:8000/play/a0yd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Df9TzjX6/0090.png" group-title="→ ENTRETENIMIENTO HD ←",TELEFE ARG
+http://157.100.248.242:8880/play/a0ce
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Df9TzjX6/0090.png" group-title="→ ENTRETENIMIENTO HD ←",TELEFE INTERNACIONAL
+http://157.100.248.242:8880/play/a0dt
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fw7VkNx/0093.png" group-title="→ ENTRETENIMIENTO HD ←",UNCION TV EC
+http://205.235.6.29:8000/play/a0yx
 
 
 
