@@ -273,6 +273,12 @@ http://45.70.201.253:8889/play/a0du
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k2s8yPHk/0206.png" group-title="→ CINE & SERIES HD ←",HBO XTREME
 http://45.173.231.22:8000/play/a074
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ ENTRETENIMIENTO HD ←",VOLVER ARG
+http://181.13.252.102:8000/play/a021
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ ENTRETENIMIENTO HD ←",VOLVER ARG
+http://181.209.96.155:10000/play/a11z
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vCVXhC72/0027.png" group-title="→ CINE & SERIES HD ←",WEST
 http://38.210.105.10:8000/play/a0bn
 
