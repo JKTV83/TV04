@@ -954,6 +954,9 @@ http://157.100.9.51:8000/play/a1yt
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxJ7Mvbj/0089.png" group-title="→ ENTRETENIMIENTO HD ←",OROMAR TV
 http://177.234.234.170:4000/play/a0r5
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0yhQ0tKX/0190.png" group-title="→ ENTRETENIMIENTO HD ←",RPC HD
+http://38.134.250.110:8000/play/a01o
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMv7bG9G/0084.png" group-title="→ ENTRETENIMIENTO HD ←",TELEAMAZONAS EC
 http://38.44.109.41:8003/play/a0e8
 
@@ -980,6 +983,12 @@ http://38.134.250.110:8000/play/a01i
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcyLtQxH/0188.png" group-title="→ ENTRETENIMIENTO HD ←",TVMAX PA
 http://181.78.8.199:8000/play/a0ij
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxZMKtWs/0189.png" group-title="→ ENTRETENIMIENTO HD ←",TVN PAN
+http://38.134.250.110:8000/play/a02r
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxZMKtWs/0189.png" group-title="→ ENTRETENIMIENTO HD ←",TVN PAN
+http://181.78.8.199:8000/play/a0ik
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fw7VkNx/0093.png" group-title="→ ENTRETENIMIENTO HD ←",UNCION TV EC
 http://205.235.6.29:8000/play/a0yx
