@@ -593,6 +593,12 @@ http://179.60.224.196:8000/play/a0f4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S8wVzq3/0086.png" group-title="→ DEPORTES HD ←",TUDN
 http://201.151.118.136:8000/play/a00g
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
+http://38.44.109.41:8003/play/a02l
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
+http://45.173.231.22:8000/play/a08y
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
 http://38.44.109.41:8003/play/a01j
 
