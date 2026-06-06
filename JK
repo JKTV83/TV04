@@ -1221,6 +1221,9 @@ http://157.100.248.242:8880/play/a0ce
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Df9TzjX6/0090.png" group-title="→ ENTRETENIMIENTO HD ←",TELEFE INTERNACIONAL
 http://157.100.248.242:8880/play/a0dt
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XxNKPWgM/0248.png" group-title="→ ENTRETENIMIENTO HD ←",TELEVEN VE
+http://217.26.191.79:3691/play/a11g
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcyLtQxH/0188.png" group-title="→ ENTRETENIMIENTO HD ←",TVMAX PA
 http://38.134.250.110:8000/play/a01i
 
