@@ -4,22 +4,13 @@
 http://38.210.105.10:8000/play/a09s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kgRV1xxQ/0002.png" group-title="→ CINE & SERIES HD ←",A3CINE
-http://38.224.22.252:8000/play/a05b
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kgRV1xxQ/0002.png" group-title="→ CINE & SERIES HD ←",A3CINE
 http://200.115.96.61:9090/play/a00p
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvCxgpvL/0003.png" group-title="→ CINE & SERIES HD ←",A&E
 http://38.44.109.41:8003/play/a0c3
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvCxgpvL/0003.png" group-title="→ CINE & SERIES HD ←",A&E
-http://38.190.101.128:2233/play/a1g6
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvCxgpvL/0003.png" group-title="→ CINE & SERIES HD ←",A&E MEX
 http://38.49.128.38:8000/play/a0bv
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kCB4MqQ/0005.png" group-title="→ CINE & SERIES HD ←",AMC ARG
-http://45.5.151.62:8000/play/a018
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kCB4MqQ/0005.png" group-title="→ CINE & SERIES HD ←",AMC
 http://38.44.109.41:8003/play/a0c4
@@ -55,7 +46,7 @@ http://45.70.201.253:8889/play/a0i6
 http://38.49.128.38:8000/play/a08w
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K4Ydxzc/0054.png" group-title="→ CINE & SERIES HD ←",AZTECA CINEMA
-http://45.173.74.2:2010/play/a07l
+http://148.230.149.45:1020/play/a02h
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dwFTTqbd/0380.png" group-title="→ CINE & SERIES HD ←",BIGTIME
 https://76af1d7e277b46a58a41c188c3ea4117.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_BjgtjmePeliculasGratis/playlist.m3u8?
@@ -83,9 +74,6 @@ http://181.78.192.238:8000/play/a2b5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nMQmdsKG/0130.png" group-title="→ CINE & SERIES HD ←",CINE MEXICANO
 http://38.134.250.110:8000/play/a01g
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nMQmdsKG/0130.png" group-title="→ CINE & SERIES HD ←",CINE MEXICANO
-http://45.186.106.194:9999/play/a06s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPZMnHq6/0131.png" group-title="→ CINE & SERIES HD ←",CINE ORO
 http://38.44.109.41:8003/play/a01k
@@ -1199,6 +1187,9 @@ http://181.78.192.238:8000/play/a2d1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mrKCr4tH/0107.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 13 GUA
 http://181.78.192.238:8000/play/a2c0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7MWb9LB/0395.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 13 SINART
+http://45.5.117.99:8000/play/a050
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B54wKC09/0108.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 13 VIVA NICARAGUA
 http://38.224.22.252:8000/play/a01m
