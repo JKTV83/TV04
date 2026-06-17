@@ -1604,10 +1604,10 @@ http://38.44.109.41:8003/play/a0ha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNNxdqv3/0216.png" group-title="→ CHILE ←",LA RED
 http://45.70.201.253:8889/play/a0dl
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zb3y8MY/0232.png" group-title="→ CHILE←",MEGA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zb3y8MY/0232.png" group-title="→ CHILE ←",MEGA
 http://38.44.109.41:8003/play/a0h7
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zb3y8MY/0232.png" group-title="→ CHILE←",MEGA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zb3y8MY/0232.png" group-title="→ CHILE ←",MEGA
 http://38.44.109.41:8003/play/a0hl
 
 
