@@ -1534,11 +1534,29 @@ http://103.23.62.238:8000/play/a082
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx5Pdqxz/0053.png" group-title="→ ECUADOR ←",AUSTRAL TV
 http://103.23.62.238:8000/play/a02b
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx5Pdqxz/0053.png" group-title="→ ECUADOR ←",AUSTRAL TV
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjfxwZCn/0424.png" group-title="→ ECUADOR ←",CANAL SUR LOJA
+https://canalsur.streamseguro.com/hls/canalsur-u-1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35dzftXs/0403.png" group-title="→ ECUADOR ←",CAPRICHO TV
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFmnNBd5/0378.png" group-title="→ ECUADOR ←",COCAVISION
 http://38.44.109.41:8003/play/a01i
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prLD7bbx/0404.png" group-title="→ ECUADOR ←",CURIQUINGUE TV
+https://video2.lhdserver.es/pjtv/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3yMnxn6V/0405.png" group-title="→ ECUADOR ←",ECOTEL TV
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMLqmqr8/0174.png" group-title="→ ECUADOR ←",ECUADOR TV
 http://38.44.109.41:8003/play/a02b
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMLqmqr8/0174.png" group-title="→ ECUADOR ←",ECUADOR TV
+https://samson.streamerr.co:8081/shogun/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhp7Chkj/0083.png" group-title="→ ECUADOR ←",ECUAVISA
 http://45.70.201.253:8889/play/a0j0
@@ -1549,17 +1567,71 @@ http://45.70.201.253:8889/play/a0ex
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhp7Chkj/0083.png" group-title="→ ECUADOR ←",ECUAVISA
 http://205.235.6.29:8000/play/a0zw
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhp7Chkj/0083.png" group-title="→ ECUADOR ←",ECUAVISA
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhp7Chkj/0083.png" group-title="→ ECUADOR ←",ECUAVISA
+https://jireh-5-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo.smil/ecuavisaqo/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhp7Chkj/0083.png" group-title="→ ECUADOR ←",ECUAVISA
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPwnRcq1/0406.png" group-title="→ ECUADOR ←",FRECUENCIA MUSICAL TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3XXT3w1/0187.png" group-title="→ ECUADOR ←",GAMAVISION
 http://38.44.109.41:8003/play/a0ea
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3XXT3w1/0187.png" group-title="→ ECUADOR ←",GAMAVISION
 http://204.199.242.203:58000/play/a02a
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1gDxcw5/0407.png" group-title="→ ECUADOR ←",GAVIOTA TV
+https://gaviotatv.streamseguro.com:3195/live/gaviotatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LDBnpM9f/0408.png" group-title="→ ECUADOR ←",HECHOS TV
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YCPRBjX/0409.png" group-title="→ ECUADOR ←",IMPERIO TV EL EMPALME
+https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jm2rwXR/0410.png" group-title="→ ECUADOR ←",INFINITA TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XrftDm0Y/0425.png" group-title="→ ECUADOR ←",KCH TV
+https://kchtv.makrodigital.com/kchtv/kchtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6YFrkm9/0411.png" group-title="→ ECUADOR ←",LATACUNGA TV
+https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8mt8wr9/0426.png" group-title="→ ECUADOR ←",LORETO TV
+https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7Ln3YVh/0226.png" group-title="→ ECUADOR ←",MAJESTAD TV
 http://103.23.62.238:8000/play/7
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7Ln3YVh/0226.png" group-title="→ ECUADOR ←",MAJESTAD TV
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWCwt4M3/0227.png" group-title="→ ECUADOR ←",MAKRO DIGITAL
 http://103.23.62.238:8000/play/a028
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWCwt4M3/0227.png" group-title="→ ECUADOR ←",MAKRO DIGITAL
+https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dwGPbh9s/0427.png" group-title="→ ECUADOR ←",MEL RTV
+https://eu1.servers10.com:8081/8334/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5gndq3xR/0431.png" group-title="→ ECUADOR ←",MULTICANAL CATAMAYO
+https://live.zonaradio.net/hls/live/Multicanalec_2026_key.m3u8?v=1781747931
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yB6Wh0H3/0428.png group-title="→ ECUADOR ←",NORTVISION
+https://server.asilivehd.com/live/nortvisi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hbmySjY/0412.png" group-title="→ ECUADOR ←",ÑUKA TV
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JFWp4wR/0429.png" group-title="→ ECUADOR ←",TELEVISION QUEVEDEÑA
+https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxJ7Mvbj/0089.png" group-title="→ ECUADOR ←",OROMAR TV
 http://38.44.109.41:8003/play/a0d9
@@ -1582,14 +1654,35 @@ http://177.234.234.170:4000/play/a0r5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxJ7Mvbj/0089.png" group-title="→ ECUADOR ←",OROMAR TV
 http://186.5.77.99:8000/play/a0ac
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxJ7Mvbj/0089.png" group-title="→ ECUADOR ←",OROMAR TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bS3CxR2/0413.png" group-title="→ ECUADOR ←",PANTALLA CLASICA TV
+https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJ7P9m4w/0399.png" group-title="→ ECUADOR ←",PJTV
 https://eu1.servers10.com:8081/8020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzPmBWfg/0414.png" group-title="→ ECUADOR ←",PLANETA RADIO TV
+https://live20.bozztv.com/akamaissh101/ssh101/planeta55tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99VnRzmh/0415.png" group-title="→ ECUADOR ←",PLUSTV
+https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFdyjYWx/0273.png" group-title="→ ECUADOR ←",PREMIER TV
 http://103.23.62.238:8000/play/a035
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7ys6gyL/0275.png" group-title="→ ECUADOR ←",PURUWA TV
 http://103.23.62.238:8000/play/a025
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7ys6gyL/0275.png" group-title="→ ECUADOR ←",PURUWA TV
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMLZZTQ7/0416.png" group-title="→ ECUADOR ←",RED TVE VENTANAS
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNmssYxv/0417.png" group-title="→ ECUADOR ←",RTR TV LA TRONCAL
+https://tv3ecuador.site/hls/stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDmyG8zs/0289.png" group-title="→ ECUADOR ←",RTS
 http://38.44.109.41:8003/play/a02e
@@ -1602,6 +1695,15 @@ http://45.70.201.253:8889/play/a0he
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jz2pFwL/0290.png" group-title="→ ECUADOR ←",RTU
 http://38.44.109.41:8003/play/a0d8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jz2pFwL/0290.png" group-title="→ ECUADOR ←",RTU
+https://video1.makrodigital.com/rtu/rtu/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjhPpxrx/0418.png" group-title="→ ECUADOR ←",RTV RIOBAMBA
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vCD3BYFw/0419.png" group-title="→ ECUADOR ←",SONO ONDA RTV
+https://live.obslivestream.com/sonoondatv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gFLgj62P/0309.png" group-title="→ ECUADOR ←",TC
 http://38.44.109.41:8003/play/a00z
@@ -1627,8 +1729,20 @@ http://103.23.62.238:8000/play/3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMv7bG9G/0084.png" group-title="→ ECUADOR ←",TELEAMAZONAS
 http://205.235.6.29:8000/play/a0yd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMv7bG9G/0084.png" group-title="→ ECUADOR ←",TELEAMAZONAS
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4nvSZVXb/0430.png" group-title="→ ECUADOR ←",TELEMAR
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dsqKHgP1/0326.png" group-title="→ ECUADOR ←",TELERAMA
 http://205.235.6.29:8000/play/a0va
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XZmjC6Tz/0420.png" group-title="→ ECUADOR ←",TRONCAL LIVE
+https://troncalive.site/live/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VcGrqNdT/0421.png" group-title="→ ECUADOR ←",TV COLOR CANAL 36
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nJRqLLr/0346.png" group-title="→ ECUADOR ←",TVC
 http://38.44.109.41:8003/play/a0ec
@@ -1639,14 +1753,26 @@ http://38.44.109.41:8003/play/a029
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nJRqLLr/0346.png" group-title="→ ECUADOR ←",TVC
 http://45.70.201.253:8889/play/a0f2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1fw7VkNx/0093.png" group-title="→ ECUADOR ←",UNCION TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8nJRqLLr/0346.png" group-title="→ ECUADOR ←",TVC
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fw7VkNx/0093.png" group-title="→ ECUADOR ←",UNSION TV
 http://205.235.6.29:8000/play/a0yx
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JwjxBWXG/0422.png" group-title="→ ECUADOR ←",UNIANDES TV
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjCchWJJ/0423.png" group-title="→ ECUADOR ←",WUAN +
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3yxdrDsd/0376.png" group-title="→ ECUADOR ←",YASUNI TV
 http://38.44.109.41:8003/play/a032
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pfR4T8w/0377.png" group-title="→ ECUADOR ←",ZARACAY TV
 http://103.23.62.238:8000/play/a02f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pfR4T8w/0377.png" group-title="→ ECUADOR ←",ZARACAY TV
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 
 
 
