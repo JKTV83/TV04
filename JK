@@ -1629,6 +1629,9 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYwptbG1/0479.png" group-title="→ COSTA RICA ←",ANTENA SEIS
+https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBR3p4gh/0097.png" group-title="→ COSTA RICA ←",CANAL 7 TELETICA
 http://45.163.139.42:8000/play/a02k
 
@@ -1638,11 +1641,44 @@ http://200.69.80.179:5050/play/a168
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7MWb9LB/0395.png" group-title="→ COSTA RICA ←",CANAL 13 SINART
 http://45.5.117.99:8000/play/a050
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5vFF9nn/0480.png" group-title="→ COSTA RICA ←",COLOSAL TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1600291992.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5vFF9nn/0480.png" group-title="→ COSTA RICA ←",COLOSAL TV
+https://5eac7b031d945.streamlock.net/COLOSAL/COLOSAL/chunklist_w1214182894.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sv8z747v/0481.png" group-title="→ COSTA RICA ←",GAM TV
+https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5W49b7gd/0482.png" group-title="→ COSTA RICA ←",GARABITO TV
+https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/chunklist_w878297441.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KkBBMZw/0483.png" group-title="→ COSTA RICA ←",LIMON TV
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KkBBMZw/0483.png" group-title="→ COSTA RICA ←",LIMON TV
+https://59ef525c24caa.streamlock.net/limontv1/limontv1/chunklist_w238903739.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hGvvp5d/0484.png" group-title="→ COSTA RICA ←",LOS SANTOS TV
+https://lstv.duckdns.org:449/hls/lstv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5xrnGsqW/0246.png" group-title="→ COSTA RICA ←",MULTIMEDIOS 8
 http://181.78.192.238:8000/play/a2df
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dg5z3gw7/0485.png" group-title="→ COSTA RICA ←",NICOYA TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LXS565sN/0486.png" group-title="→ COSTA RICA ←",NORTE INFORMATIVO TV
+https://videohd.live:19360/8076/8076.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pqyH5kv/0281.png" group-title="→ COSTA RICA ←",REPRETEL 4
 http://200.69.80.179:5050/play/a17h
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pqyH5kv/0281.png" group-title="→ COSTA RICA ←",REPRETEL 4
+https://d35xpyc30huab3.cloudfront.net/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pqyH5kv/0281.png" group-title="→ COSTA RICA ←",REPRETEL 4
+https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fd4XRSXk/0282.png" group-title="→ COSTA RICA ←",REPRETEL 6
 http://181.78.192.238:8000/play/a2ce
@@ -1650,17 +1686,35 @@ http://181.78.192.238:8000/play/a2ce
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fd4XRSXk/0282.png" group-title="→ COSTA RICA ←",REPRETEL 6
 http://190.7.192.162:8001/play/s2
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fd4XRSXk/0282.png" group-title="→ COSTA RICA ←",REPRETEL 6
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ks7ZdWng/0283.png" group-title="→ COSTA RICA ←",REPRETEL 11
 http://181.78.192.238:8000/play/a2cf
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qS89pQw/0487.png" group-title="→ COSTA RICA ←",RETRO TV ONLINE
+https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+
+#EXTINF:-1 vg-logo="https://i.ibb.co/9HqT09VH/0488.png" group-title="→ COSTA RICA ←",RETRO TV PALMARES
+https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tpN7HcY/0295.png" group-title="→ COSTA RICA ←",SARAPIQUI TV
 http://181.119.83.235:8000/play/C067
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tpN7HcY/0295.png" group-title="→ COSTA RICA ←",SARAPIQUI TV
+https://lstv.duckdns.org:449/hls/stv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdLsfYkB/0328.png" group-title="→ COSTA RICA ←",TELERED
 http://181.119.83.235:8000/play/C077
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1YV50b/0330.png" group-title="→ COSTA RICA ←",TELESISTEMA
 http://181.119.83.235:8000/play/C078
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mVQtGDrN/0489.png" group-title="→ COSTA RICA ←",TELE UNO TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h3Bqg9b/0490.png" group-title="→ COSTA RICA ←",TELEBRUNCA
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist_w1837623903.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8BvKfWJ/0387.png" group-title="→ COSTA RICA ←",TVSUR
 http://190.7.192.163:8012/play/s26
