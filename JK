@@ -1707,8 +1707,14 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdLsfYkB/0328.png" group-title="→ COSTA RICA ←",TELERED
 http://181.119.83.235:8000/play/C077
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LdLsfYkB/0328.png" group-title="→ COSTA RICA ←",TELERED
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1YV50b/0330.png" group-title="→ COSTA RICA ←",TELESISTEMA
 http://181.119.83.235:8000/play/C078
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1YV50b/0330.png" group-title="→ COSTA RICA ←",TELESISTEMA
+https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mVQtGDrN/0489.png" group-title="→ COSTA RICA ←",TELE UNO TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
@@ -1716,8 +1722,29 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h3Bqg9b/0490.png" group-title="→ COSTA RICA ←",TELEBRUNCA
 https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist_w1837623903.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vChTvZRc/0492.png" group-title="→ COSTA RICA ←",TV +
+https://k20.usastreams.com:8081/tvplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPb33G5B/0493.png" group-title="→ COSTA RICA ←",TV NOSARA
+https://latamvdo.com:3870/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhZM3PBt/0494.png" group-title="→ COSTA RICA ←",TV SUR CANAL 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxPNCsV1/0495.png" group-title="→ COSTA RICA ←",TV SUR CANAL 14
+https://k20.usastreams.com:8081/tvsur/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7tgzcjnj/0491.png" group-title="→ COSTA RICA ←",TV TRES
+https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8BvKfWJ/0387.png" group-title="→ COSTA RICA ←",TVSUR
 http://190.7.192.163:8012/play/s26
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMDQPGsx/0496.png" group-title="→ COSTA RICA ←",VOICE OVER RTV
+https://tvservices.fullhd-streaming.com:3941/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NT1ghkd/0497.png" group-title="→ COSTA RICA ←",ZURQUI TV
+https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 
 
 
@@ -1810,6 +1837,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jm2rwXR/0410.png" group-title="→ ECUADOR ←",INFINITA TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vcv7jXfx/0498.png" group-title="→ ECUADOR ←",ISCALI TV
+https://cloud2.streaminglivehd.com:1936/iscalitv/iscalitv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrftDm0Y/0425.png" group-title="→ ECUADOR ←",KCH TV
 https://kchtv.makrodigital.com/kchtv/kchtv/playlist.m3u8
 
@@ -1837,7 +1867,7 @@ https://eu1.servers10.com:8081/8334/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5gndq3xR/0431.png" group-title="→ ECUADOR ←",MULTICANAL CATAMAYO
 https://live.zonaradio.net/hls/live/Multicanalec_2026_key.m3u8?v=1781747931
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yB6Wh0H3/0428.png group-title="→ ECUADOR ←",NORTVISION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yB6Wh0H3/0428.png" group-title="→ ECUADOR ←",NORTVISION
 https://server.asilivehd.com/live/nortvisi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hbmySjY/0412.png" group-title="→ ECUADOR ←",ÑUKA TV
@@ -1974,6 +2004,9 @@ http://205.235.6.29:8000/play/a0yx
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwjxBWXG/0422.png" group-title="→ ECUADOR ←",UNIANDES TV
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTC8BsRq/0499.png" group-title="→ ECUADOR ←",VOZ & TV
+https://cloud37.ecuatel.com/vostv/live/chunklist_w1713510158.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjCchWJJ/0423.png" group-title="→ ECUADOR ←",WUAN +
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
