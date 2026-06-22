@@ -972,6 +972,9 @@ http://103.23.62.238:8000/play/a04p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WW4hM7Wq/0057.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA INTERNACIONAL
 http://38.41.8.1:8000/play/a0yf
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW4hM7Wq/0057.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tfC2vS7/0058.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA UNO
 http://38.44.109.41:8003/play/a033
 
@@ -1028,6 +1031,9 @@ http://45.70.201.253:8889/play/a0is
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0ZCbwV2/0220.png" group-title="→ ENTRETENIMIENTO HD ←",LAS ESTRELLAS MX
 http://45.68.35.218:9000/play/a00a
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0ZCbwV2/0220.png" group-title="→ ENTRETENIMIENTO HD ←",LAS ESTRELLAS
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T6dDg08/0234.png" group-title="→ ENTRETENIMIENTO HD ←",MEGA TV
 http://line.asalico.com:80/play/live.php?mac=00:1A:79:CF:45:35&stream=790501&extension=ts
@@ -2299,6 +2305,12 @@ http://45.5.119.43:4000/play/a05o
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VccvWjR4/0109.png" group-title="→ MEXICO ←",CANAL 14
 http://45.167.253.246:8010/play/a00s
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VccvWjR4/0109.png" group-title="→ MEXICO ←",CANAL 14
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5PBvD7z/0520.png" group-title="→ MEXICO ←",CANAL 28
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ykkHMZx/0212.png" group-title="→ MEXICO ←",IMAGEN TV
 http://201.151.118.136:8000/play/a001
