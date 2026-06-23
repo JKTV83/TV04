@@ -345,7 +345,7 @@ http://45.68.35.218:9000/play/a00v
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tT1VkX2/0268.png" group-title="→ CINE & SERIES HD ←",PANICO
 http://181.78.8.199:8000/play/a0bt
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N29fsgHF/0578.png" group-title="→ VARIADAS LATAM ←",PELIMEX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N29fsgHF/0578.png" group-title="→ CINE & SERIES HD ←",PELIMEX
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2DG2p3q/0285.png" group-title="→ CINE & SERIES HD ←",RETRO CINE TV
@@ -1014,7 +1014,7 @@ http://38.44.109.41:8003/play/a0er
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKVGcrzV/0173.png" group-title="→ ENTRETENIMIENTO HD ←",E!
 http://45.70.201.253:8889/play/a02p
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9d59xd/0576.png" group-title="→ VARIADAS LATAM ←",EL MAGO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9d59xd/0576.png" group-title="→ ENTRETENIMIENTO HD ←",EL MAGO TV
 https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JR77jn92/0042.png" group-title="→ ENTRETENIMIENTO HD ←",ESTRELLA TV
