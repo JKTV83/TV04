@@ -2087,7 +2087,7 @@ http://45.70.201.253:8889/play/a0f2
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c0NqwYj/0603.png" group-title="→ ECUADOR ←",TVN
-http://177.234.218.66:8084/play/a024
+http://177.234.218.66:8084/play/a024/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fw7VkNx/0093.png" group-title="→ ECUADOR ←",UNSION TV
 http://205.235.6.29:8000/play/a0yx
