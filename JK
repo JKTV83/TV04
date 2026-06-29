@@ -454,6 +454,9 @@ http://38.44.109.41:8003/play/a0cz
 http://45.70.201.253:8889/play/a0h4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ CINE & SERIES HD ←",VOLVER ARG
+http://179.51.136.23:8000/play/a068
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ CINE & SERIES HD ←",VOLVER ARG
 http://181.13.252.102:8000/play/a021
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ CINE & SERIES HD ←",VOLVER ARG
@@ -742,6 +745,15 @@ http://45.70.201.253:8889/play/a0it
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mxf9y0fb/0041.png" group-title="→ DEPORTES HD ←",ESPN PREMIUM ARG
 http://45.5.151.62:8000/play/a02o
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6hSccnv/0600.png" group-title="→ DEPORTES HD ←",FOX SPORTS
+http://179.51.136.23:8000/play/a08a
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsyCsjL9/0601.png" group-title="→ DEPORTES HD ←",FOX SPORTS 2
+http://179.51.136.23:8000/play/a04h
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hvB7ffz/0602.png" group-title="→ DEPORTES HD ←",FOX SPORTS 3
+http://179.51.136.23:8000/play/a070
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZnZYpyt/0222.png" group-title="→ DEPORTES HD ←",LIGA 1 PE
 http://38.44.109.41:8003/play/a0bw
@@ -1364,6 +1376,9 @@ https://stream.arcast.live/ahora/ahora/chunklist_w1624577294.m3u8
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w375629963_b644100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Y0TLRhp/0137.png" group-title="→ ARGENTINA ←",CIUDAD MAGAZINE
+http://179.51.136.23:8000/play/a06o
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3Y0TLRhp/0137.png" group-title="→ ARGENTINA ←",CIUDAD MAGAZINE
 http://181.209.96.155:10000/play/a12f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5yGwPCW/0437.png" group-title="→ ARGENTINA ←",CIUDAD MAGICA TV
@@ -1376,10 +1391,16 @@ http://181.119.83.235:8000/play/C073
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpCf409y/0175.png" group-title="→ ARGENTINA ←",EL NUEVE
-http://181.13.252.102:8000/play/a04h
+http://179.51.136.23:8000/play/a03m
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpCf409y/0175.png" group-title="→ ARGENTINA ←",EL NUEVE
+http://179.51.136.23:8000/play/a04c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7ds0zmh8/0176.png" group-title="→ ARGENTINA ←",EL TRECE
-http://181.209.96.155:10000/play/a15e
+http://179.51.136.23:8000/play/a07f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7ds0zmh8/0176.png" group-title="→ ARGENTINA ←",EL TRECE
+http://179.51.136.23:8000/play/a08d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgwqRwBw/0177.png" group-title="→ ARGENTINA ←",EL TRECE INTERNACIONAL
 http://38.44.109.41:8003/play/a0ft
@@ -2064,6 +2085,9 @@ http://45.70.201.253:8889/play/a0f2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8nJRqLLr/0346.png" group-title="→ ECUADOR ←",TVC
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/c0NqwYj/0603.png" group-title="→ ECUADOR ←",TVN
+http://177.234.218.66:8084/play/a024
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fw7VkNx/0093.png" group-title="→ ECUADOR ←",UNSION TV
 http://205.235.6.29:8000/play/a0yx
