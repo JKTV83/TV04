@@ -2626,6 +2626,12 @@ http://190.108.90.142:8000/play/a01t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pS793db/0150.png" group-title="→ PERU ←",CR TV
 https://live.obslivestream.com/crtvmux/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C36K7j5S/0604.png" group-title="→ PERU ←",FOLKLORE TV
+http://38.252.215.33:8000/play/a02i
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C36K7j5S/0604.png" group-title="→ PERU ←",FOLKLORE TV
+https://play.folkloretv.pe/StreamSD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRxZLcc1/0191.png" group-title="→ PERU ←",GENIOS TV
 http://190.108.90.142:8000/play/a016
 
@@ -2780,7 +2786,13 @@ http://38.137.192.250:8000/play/telecolor
 http://201.240.104.137:8000/play/a09l
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKM5KDvx/0319.png" group-title="→ PERU ←",TELELIMA
+http://38.252.215.33:8000/play/a02m
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xKM5KDvx/0319.png" group-title="→ PERU ←",TELELIMA
 http://38.137.192.250:8000/play/telelima
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23hrC69H/0540.png" group-title="→ PERU ←",TELESELVA
+http://38.252.215.33:8000/play/a02g
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/23hrC69H/0540.png" group-title="→ PERU ←",TELESELVA
 https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
