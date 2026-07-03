@@ -1782,6 +1782,12 @@ https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HqT09VH/0488.png" group-title="→ COSTA RICA ←",RETRO TV PALMARES
 https://live20.bozztv.com/akamaissh101/ssh101/tvretropalm2020/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84g2TR12/0605.png" group-title="→ COSTA RICA ←",RETROXTV
+http://38.210.105.10:8000/play/CVSDCV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/84g2TR12/0605.png" group-title="→ COSTA RICA ←",RETROXTV
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7tpN7HcY/0295.png" group-title="→ COSTA RICA ←",SARAPIQUI TV
 http://181.119.83.235:8000/play/C067
 
