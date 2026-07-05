@@ -2539,8 +2539,17 @@ http://200.60.124.25:8000/play/a0mt
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0jc8p1KC/0023.png" group-title="→ PERU ←",AMAZONICA TV
 https://videoserver.tmcreativos.com:19360/amazonicatv/amazonicatv.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7yNysgh/0614.png" group-title="→ PERU ←",AMAZONICA TV
+https://live.obslivestream.com/amazonicatv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNDXtb5J/0026.png" group-title="→ PERU ←",AMERICA TV
 http://38.44.109.41:8003/play/a0ca
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wNDXtb5J/0026.png" group-title="→ PERU ←",AMERICA TV
+https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_1080p5Mb.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZFGqy4x/0606.png" group-title="→ PERU ←",ANDES TV
+https://stmv2.srvif.com/tvsicuani/tvsicuani/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/23hhJdRF/0525.png" group-title="→ PERU ←",ANTARES TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
@@ -2562,9 +2571,6 @@ https://video2.lhdserver.es/asiritv/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CrjpS82/0400.png" group-title="→ PERU ←",ATMOSFERA TV
 http://190.108.90.142:8000/play/a020
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CrjpS82/0400.png" group-title="→ PERU ←",ATMOSFERA TV
-http://190.108.90.142:8000/play/a01y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBZYpbDp/0046.png" group-title="→ PERU ←",ATV
 http://38.44.109.41:8003/play/a0fp
@@ -2593,14 +2599,23 @@ http://147.135.114.221:8001/play/a005
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WW8St3mg/0048.png" group-title="→ PERU ←",AURA TV
 http://200.60.124.25:8000/play/a0ka
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z1tfLSJc/0607.png" group-title="→ PERU ←",AUTENTICA TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HRSPDBp/0060.png" group-title="→ PERU ←",BELLA ABANQUINA TV
 https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/605wfm4m/0061.png" group-title="→ PERU ←",BHTV
 https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/605wfm4m/0061.png" group-title="→ PERU ←",BHTV
+https://5949aa132c8fb.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p6rBVLrJ/0068.png" group-title="→ PERU ←",CADENA TV
 http://45.173.201.51:4000/play/a0lk
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/p6rBVLrJ/0068.png" group-title="→ PERU ←",CADENA TV
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y749nkF0/0580.png" group-title="→ PERU ←",CANAL 4 LIRCAY
 https://eu1.servers10.com:8081/8042/index.m3u8
@@ -2608,11 +2623,20 @@ https://eu1.servers10.com:8081/8042/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJc3c9ph/0527.png" group-title="→ PERU ←",CANAL 8 CATACAOS
 https://live.obslivestream.com/canal8/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX9qrcwN/0608.png" group-title="→ PERU ←",CANAL 21 TV WANKA
+https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PZMQkY0K/0610.png" group-title="→ PERU ←",CASMA TV
+https://micanal.ovh/livestreams/349.MH2YEGDCHBVR.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v6ZWnzzd/0142.png" group-title="→ PERU ←",CNH HUANUCO TV
 http://38.224.175.2:8000/play/a0ob
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PZpmjWmP/0145.png" group-title="→ PERU ←",CONECTADO2 TV
 https://live.obslivestream.com/conecta2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zTbcnXLw/0619.png" group-title="→ PERU ←",CONTACTO TV
+https://live.obslivestream.com/contactoplaymax/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qLyvvY4T/0147.png" group-title="→ PERU ←",COSITEL TV
 http://190.117.20.37:8000/play/a08j
@@ -2632,8 +2656,17 @@ http://190.108.90.142:8000/play/a01t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pS793db/0150.png" group-title="→ PERU ←",CR TV
 https://live.obslivestream.com/crtvmux/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7JjDyBj8/0620.png" group-title="→ PERU ←",CVN TV
+https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7xt5kdDj/0611.png" group-title="→ PERU ←",DOBLE AA
+https://live.obslivestream.com/dobleaa/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C36K7j5S/0604.png" group-title="→ PERU ←",FOLKLORE TV
 http://38.252.215.33:8000/play/a02i
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C36K7j5S/0604.png" group-title="→ PERU ←",FOLKLORE TV
+https://play.folkloretv.pe/StreamHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C36K7j5S/0604.png" group-title="→ PERU ←",FOLKLORE TV
 https://play.folkloretv.pe/StreamSD/index.m3u8
@@ -2651,7 +2684,7 @@ http://45.173.231.22:8000/play/a09w
 http://201.240.104.137:8000/play/a08r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFjqM08P/0211.png" group-title="→ PERU ←",HUACHO TV 36
-http://38.210.4.182:8000/play/a0nk
+https://tv.huachotv.com/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x9M775q/0529.png" group-title="→ PERU ←",IMPACTO TV
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
@@ -2677,11 +2710,17 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTINF:-1 tvg-logo="https://i.ibb.co/knZf9g2/0530.png" group-title="→ PERU ←",LATINA CLASICOS
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SX9sPP8Z/0621.png" group-title="→ PERU ←",LIDER TV
+https://chankillo.agenciastreaming.com/lidertv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMpsDTtj/0393.png" group-title="→ PERU ←",MACHUPICCHU TV 41
 http://38.52.200.209:8000/play/a00m
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjGHF50Q/0225.png" group-title="→ PERU ←",MACTV
 http://15.204.146.163:8001/play/a006
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C50JHWNz/0609.png" group-title="→ PERU ←",MAS TV
+https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mrTG1CzF/0531.png" group-title="→ PERU ←",MASTER TV
 https://live.obslivestream.com/mastertv/tracks-v1a1/mono.m3u8
@@ -2704,26 +2743,35 @@ http://38.224.175.2:8000/play/a00z
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kkV5VCm/0236.png" group-title="→ PERU ←",MEGAVISION 45
 http://15.204.146.163:8001/play/a007
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2DDpxDZ/0251.png" group-title="→ PERU ←",NATIVA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nd7PnmZD/0617.png" group-title="→ PERU ←",MOYO TV
+https://live.obslivestream.com/moyotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2DDpxDZ/0251.png" group-title="→ PERU ←",NATIVA TV
 http://38.137.192.250:8000/play/nativa
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2DDpxDZ/0251.png" group-title="→ PERU ←",NATIVA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2DDpxDZ/0251.png" group-title="→ PERU ←",NATIVA TV
 https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1f4Wx0hJ/0622.png" group-title="→ PERU ←",NATIVA TV SATIPO
+https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FLsBG5j4/0533.png" group-title="→ PERU ←",NORSELVA RTV
 https://live.obslivestream.com/norselvatv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2nW5hg7/0623.png" group-title="→ PERU ←",NZKTV
+https://eu1.servers10.com:8081/8258/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W4C7Q4HR/0261.png" group-title="→ PERU ←",ODTV2
 http://38.210.4.182:8000/play/a14b
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q7TgDN74/0267.png" group-title="→ PERU ←",PANAMERICANA TV
-http://38.44.109.41:8003/play/a013
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7TgDN74/0267.png" group-title="→ PERU ←",PANAMERICANA TV
 http://38.44.109.41:8003/play/a0fo
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7TgDN74/0267.png" group-title="→ PERU ←",PANAMERICANA TV
 http://45.70.201.253:8889/play/a0k4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xK6Lhc8w/0612.png" group-title="→ PERU ←",PERU GO TV
+https://live.obslivestream.com/perugotv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DD2JjSs6/0271.png" group-title="→ PERU ←",PLANEA TV
 https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8?
@@ -2755,8 +2803,8 @@ http://190.108.90.142:8000/play/a00s
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nNYgjQ0X/0287.png" group-title="→ PERU ←",RSELVA TELEVISION
 https://live.obslivestream.com/selvatv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zHHLVffJ/0291.png" group-title="→ PERU ←",RTV ORIENTE
-http://38.224.175.2:8000/play/a06n
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bj96BFgr/0616.png" group-title="→ PERU ←",RTV LIBERTAD
+https://live.obslivestream.com/rtvlibertad/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHHLVffJ/0291.png" group-title="→ PERU ←",RTV ORIENTE
 https://live.obslivestream.com/tvoriente/tracks-v1a1/mono.m3u8
@@ -2790,6 +2838,9 @@ http://38.137.192.250:8000/play/telecolor
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zWjLDfdB/0316.png" group-title="→ PERU ←",TELECOLOR
 http://201.240.104.137:8000/play/a09l
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zWjLDfdB/0316.png" group-title="→ PERU ←",TELECOLOR
+https://live.obslivestream.com/telecolormux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKM5KDvx/0319.png" group-title="→ PERU ←",TELELIMA
 http://38.252.215.33:8000/play/a02m
@@ -2845,6 +2896,9 @@ http://45.173.201.51:4000/play/a0n3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mVJtz5Ly/0543.png" group-title="→ PERU ←",UNITEL TV
 https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhxRqtYY/0613.png" group-title="→ PERU ←",URANIO TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pVZkShw/0544.png" group-title="→ PERU ←",VIA ALTOMAYO
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 
@@ -2859,6 +2913,12 @@ http://148.222.230.197:8000/play/a0ga
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjLVk5C0/0375.png" group-title="→ PERU ←",XTV PE
 http://201.240.104.137:8000/play/a08w
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8SMGgd2/0618.png" group-title="→ PERU ←",YURIMAGUAS TV
+https://live.obslivestream.com/yurimaguastelevision/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vv1YxPbq/0615.png" group-title="→ PERU ←",YURIVISION
+https://live.obslivestream.com/yurivision/index.m3u8
 
 
 
