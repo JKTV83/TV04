@@ -318,6 +318,9 @@ http://38.210.105.10:8000/play/a0an
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZppM0jK/0240.png" group-title="→ CINE & SERIES HD ←",MI PELICULA
 http://38.210.105.10:8000/play/a09l
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7NYvnjxR/0639.png" group-title="→ CINE & SERIES HD ←",MYTIME MOVIE
+https://appletree-mytime-samsungmexico.amagi.tv/playlist720_p.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHmBbDH1/0242.png" group-title="→ CINE & SERIES HD ←",MOSCOW TV
 http://186.5.85.187:8000/play/a05l/index.m3u8
 
@@ -350,6 +353,9 @@ http://181.78.8.199:8000/play/a0bt
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N29fsgHF/0578.png" group-title="→ CINE & SERIES HD ←",PELIMEX
 https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMRFjTNN/0638.png" group-title="→ CINE & SERIES HD ←",POPCORN CENTRAL
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2DG2p3q/0285.png" group-title="→ CINE & SERIES HD ←",RETRO CINE TV
 http://45.239.31.254:8000/play/a026
@@ -770,9 +776,6 @@ http://15.204.146.163:8001/play/d00m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksZfqhCb/0298.png" group-title="→ DEPORTES HD ←",SKY SPORTS LA LIGA
 http://45.68.35.218:9000/play/a00w
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjcddzmk/0327.png" group-title="→ DEPORTES HD ←",TELEREBELDE CU
-http://200.69.80.179:5050/play/a1et
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6c4KKd9D/0085.png" group-title="→ DEPORTES HD ←",TIGO SPORTS BOL
 http://45.173.231.22:8000/play/a0da
 
@@ -1031,6 +1034,9 @@ http://38.44.109.41:8003/play/a0er
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BKVGcrzV/0173.png" group-title="→ ENTRETENIMIENTO HD ←",E!
 http://45.70.201.253:8889/play/a02p
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Pv1yJ2gv/0637.png" group-title="→ ENTRETENIMIENTO HD ←",EL CHAVO TV
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9d59xd/0576.png" group-title="→ ENTRETENIMIENTO HD ←",EL MAGO TV
 https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/playlist.m3u8
@@ -1850,6 +1856,15 @@ http://38.44.109.41:8003/play/a028
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VcKs8qMg/0153.png" group-title="→ CUBA ←",CUBAVISION
 https://tv.picta.cu/cubavision/cubavision_0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cp6w6W4g/0636.png" group-title="→ CUBA ←",MULTIVISION
+https://tv.picta.cu/multivision/multivision_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjcddzmk/0327.png" group-title="→ CUBA ←",TELEREBELDE
+http://200.69.80.179:5050/play/a1et
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jjcddzmk/0327.png" group-title="→ CUBA ←",TELEREBELDE
+https://tv.picta.cu/telerebelde/telerebelde_1.m3u8
+
 
 
 
@@ -2405,11 +2420,17 @@ https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ykkHMZx/0212.png" group-title="→ MEXICO ←",IMAGEN TV
 http://201.151.118.136:8000/play/a001
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ykkHMZx/0212.png" group-title="→ MEXICO ←",IMAGEN TV
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20f1JrkK/0260.png" group-title="→ MEXICO ←",NU9VE
 http://38.49.128.38:8000/play/a0ow
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20f1JrkK/0260.png" group-title="→ MEXICO ←",NU9VE
 http://45.167.253.246:8010/play/a00f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxZDxbKh/0640.png" group-title="→ MEXICO ←",SIZART
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 
 
 
@@ -2431,6 +2452,9 @@ http://181.78.192.238:8000/play/a2ca
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dg13MY1V/0099.png" group-title="→ NICARAGUA ←",CANAL 8 TN8
 http://181.78.192.238:8000/play/a2c5
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dg13MY1V/0099.png" group-title="→ NICARAGUA ←",CANAL 8 TN8
+https://streamingcws30.com/tn8/videotn8/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5BJ8VD6/0101.png" group-title="→ NICARAGUA ←",CANAL 10
 http://181.78.192.238:8000/play/a2dp
 
@@ -2442,6 +2466,12 @@ http://181.78.192.238:8000/play/a2cb
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdQLcbgn/0432.jpg" group-title="→ NICARAGUA ←",NICARAO TV
 http://45.186.106.194:9999/play/a01q
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MkZm6DtL/0641.png" group-title="→ NICARAGUA ←",TELENORTE
+https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRbsw41g/0642.png" group-title="→ NICARAGUA ←",WTV
+https://cloudvideo.servers10.com:8081/8130/index.m3u8
 
 
 
