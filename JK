@@ -2168,6 +2168,9 @@ http://181.78.192.238:8000/play/a2bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8g9HFxCn/0059.png" group-title="→ GUATEMALA ←",BARBE TV
 http://181.119.83.235:8000/play/C074
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8g9HFxCn/0059.png" group-title="→ GUATEMALA ←",BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqwVn0Tv/0072.png" group-title="→ GUATEMALA ←",CANAL 3
 http://168.228.44.241:9999/play/a01n
 
@@ -2219,6 +2222,9 @@ http://45.5.118.152:8000/play/a060
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sdkKv3Rw/0503.png" group-title="→ GUATEMALA ←",CANAL 26 CONO SUR
 https://cdn.streamhispanatv.net:3831/live/conosurlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WN8SK0dY/0683.png" group-title="→ GUATEMALA ←",CANAL 26 QUESADA TV
+https://cdn.streamhispanatv.net:3059/live/canal26quezadalive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4pmkdB0/0113.png" group-title="→ GUATEMALA ←",CANAL 57
 http://45.5.118.152:8000/play/a08i
 
@@ -2249,6 +2255,9 @@ https://vdo.voxhdnet.com:3035/live/gtvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CpBt7M2X/0199.png" group-title="→ GUATEMALA ←",GUATEVISION
 http://38.44.109.41:8003/play/a02p
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZWWqFgk/0682.png" group-title="→ GUATEMALA ←",IMAGEN TV
+https://cdn.streamhispanatv.net:3587/live/imagentvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xr1BxPD3/0505.png" group-title="→ GUATEMALA ←",LUNA VISION
 https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
 
@@ -2273,17 +2282,26 @@ http://45.5.118.152:8000/play/a05r
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKx8nJ4L/0340.png" group-title="→ GUATEMALA ←",TOTOVISION
 https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sddf3tpY/0681.png" group-title="→ GUATEMALA ←",TV DOBLE C
+https://cdn.streamhispanatv.net:3080/live/tvdobleclive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nsMcVW77/0509.png" group-title="→ GUATEMALA ←",TV FLORENCIA
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nq17w0bV/0510.png" group-title="→ GUATEMALA ←",TV TUN
 https://tvstream.alojawebgt.net:3289/live/tvtunlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWRB5nh3/0680.png" group-title="→ GUATEMALA ←",TVO GUATEMALA
+https://cdn.streamhispanatv.net:3989/live/tvolive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qM8rd3DD/0511.png" group-title="→ GUATEMALA ←",TVS
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60DNsKhX/0512.png" group-title="→ GUATEMALA ←",VERAPAZ TV
 https://tvstream.alojawebgt.net:3960/live/verapaztvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTtqCTch/0679.png" group-title="→ GUATEMALA ←",VISION MAYA TV
+https://cdn.streamhispanatv.net:3114/live/vmayatvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Df6bLG2g/0367.png" group-title="→ GUATEMALA ←",VISION TV
 http://179.60.224.196:8000/play/a0e4
