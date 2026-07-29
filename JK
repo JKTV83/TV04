@@ -54,6 +54,9 @@ http://181.78.192.238:8000/play/a2dl
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35yj3Jz1/0125.png" group-title="→ CINE & SERIES HD ←",CINDIE TV
 http://200.59.188.3:8000/play/a152
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYNWvdrq/0686.png" group-title="→ CINE & SERIES HD ←",CINE35MM
+https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rK8Gbc5y/0126.png" group-title="→ CINE & SERIES HD ←",CINEAR
 http://45.239.31.254:8000/play/a00g
 
@@ -1470,6 +1473,12 @@ https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tx6zHzy2/0454.png" group-title="→ BOLIVIA ←",TV SHOW
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvmHYPVk/0684.png" group-title="→ BOLIVIA ←",TVS X TV
+https://micanal.ovh/livestreams/79.H2F2M0K99BWW.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvmHYPVk/0684.png" group-title="→ BOLIVIA ←",TVS X TV
+https://live20.bozztv.com/akamaissh101/ssh101/tevesporteve/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9kHCFsn/0455.png" group-title="→ BOLIVIA ←",TVU
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 
@@ -1815,6 +1824,9 @@ http://45.80.197.54:8000/play/a004
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkCrmy7z/0022.png" group-title="→ ECUADOR ←",ALLY TV
 http://103.23.62.238:8000/play/a082
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jkCrmy7z/0022.png" group-title="→ ECUADOR ←",ALLY TV
+https://micanal.ovh/livestreams/142.RZYR3NWFIHKH.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx5Pdqxz/0053.png" group-title="→ ECUADOR ←",AUSTRAL TV
 http://103.23.62.238:8000/play/a02b
@@ -3066,6 +3078,9 @@ https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BV06LB27/0631.png" group-title="→ PERU ←",UCAYALINA TV
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Nn6j366p/0685.png" group-title="→ PERU ←",ULTRA TV SEÑAL DIGITAL
+https://micanal.ovh/livestreams/82.Y5V0JHNSYGDA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bgM77q02/0355.png" group-title="→ PERU ←",UNC TV
 http://15.204.146.163:8001/play/a00b
