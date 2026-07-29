@@ -546,9 +546,6 @@ http://45.185.163.75:8000/play/a05k
 http://157.100.9.51:8000/play/a1vp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
-http://179.49.201.100:8000/play/a0kq
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
 http://179.60.190.252:8000/play/a0es
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
@@ -565,9 +562,6 @@ http://186.33.47.113:8000/play/a04u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
 http://190.83.15.112:8000/play/a00p
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
-http://www.clientes.scn.ec:8000/play/a0kq
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20n5dN3q/0034.png" group-title="→ DEPORTES HD ←",ESPN
 http://38.44.109.41:8003/play/a0e6
@@ -768,15 +762,6 @@ http://204.199.242.203:58000/play/a00s
 http://38.44.109.41:8003/play/a01j
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
-http://45.173.231.22:8000/play/a0d7
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
-http://45.173.231.22:8000/play/a0dp
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
-http://45.185.163.75:8000/play/a0hf
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
 http://157.100.9.51:8000/play/abcd2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
@@ -786,13 +771,16 @@ http://179.60.191.102:8000/play/a0in
 http://181.78.192.238:8000/play/a2hc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
-http://186.33.45.218:8000/play/a0qy/index.m3u8
+http://181.78.192.238:8000/play/a2i0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
+http://181.78.192.238:8000/play/a2hp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
 http://204.199.242.203:58000/play/a079
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
-http://204.199.242.203:58000/play/a096
+http://204.199.242.203:58000/play/a079
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
 http://204.199.246.85:58000/play/a001
