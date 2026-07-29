@@ -1922,7 +1922,7 @@ https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u
 https://eu1.servers10.com:8081/8334/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5gndq3xR/0431.png" group-title="→ ECUADOR ←",MULTICANAL CATAMAYO
-https://live.zonaradio.net/hls/live/Multicanalec_2026_key.m3u8?v=1781747931
+https://stmv1.novacasthd.in/multicanalec/multicanalec/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yB6Wh0H3/0428.png" group-title="→ ECUADOR ←",NORTVISION
 https://server.asilivehd.com/live/nortvisi.m3u8
