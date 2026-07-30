@@ -972,6 +972,9 @@ http://185.152.66.132:8080/Galavision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDD4C7xY/0186.png" group-title="→ ENTRETENIMIENTO HD ←",GALAVISION
 http://line.asalico.com:80/play/live.php?mac=00:1A:79:CF:45:35&stream=1931067&extension=m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDD4C7xY/0186.png" group-title="→ ENTRETENIMIENTO HD ←",GALAVISION
+http://p6.iptvprivateserver.ru:80/W71727W6313A/MeRXbJhK4G/436
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pjhTc6yB/0214.png" group-title="→ ENTRETENIMIENTO HD ←",IVC
 http://200.59.188.3:8000/play/a0xd
 
