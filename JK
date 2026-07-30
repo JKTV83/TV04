@@ -949,7 +949,7 @@ http://38.44.109.41:8003/play/a0er
 http://45.70.201.253:8889/play/a02p
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv1yJ2gv/0637.png" group-title="→ ENTRETENIMIENTO HD ←",EL CHAVO TV
-http://38.252.215.33:8000/play/a00f
+http://38.252.215.33:8000/play/a01i
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pv1yJ2gv/0637.png" group-title="→ ENTRETENIMIENTO HD ←",EL CHAVO TV
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
@@ -1159,6 +1159,9 @@ http://38.44.109.41:8003/play/a03b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj35Q0Kz/0168.png" group-title="→ INFANTIL & JUVENIL HD ←",DISNEY JR
 http://38.44.109.41:8003/play/a0em
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qj35Q0Kz/0168.png" group-title="→ INFANTIL & JUVENIL HD ←",DISNEY JR
+http://38.252.215.33:8000/play/a00f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qtCvXgP/0171.png" group-title="→ INFANTIL & JUVENIL HD ←",DREAMWORKS HD
 http://38.49.128.38:8000/play/a0no
@@ -2714,7 +2717,7 @@ https://live.obslivestream.com/dobleaa/index.m3u8
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=6697131
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C36K7j5S/0604.png" group-title="→ PERU ←",FOLKLORE TV
-http://38.252.215.33:8000/play/a02i
+http://38.252.215.33:8000/play/a019
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C36K7j5S/0604.png" group-title="→ PERU ←",FOLKLORE TV
 https://play.folkloretv.pe/StreamHD/index.m3u8
