@@ -957,6 +957,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9d59xd/0576.png" group-title="→ ENTRETENIMIENTO HD ←",EL MAGO TV
 https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mkxk7nRS/0689.png" group-title="→ ENTRETENIMIENTO HD ←",ENTERTAINMENT PLAY CLASSIC
+https://video02.logicahost.com.br/classic/classic/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JR77jn92/0042.png" group-title="→ ENTRETENIMIENTO HD ←",ESTRELLA TV
 http://38.95.86.139:61400/play/a06x
 
@@ -992,6 +995,9 @@ http://45.68.35.218:9000/play/a00a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0ZCbwV2/0220.png" group-title="→ ENTRETENIMIENTO HD ←",LAS ESTRELLAS
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JVTpFWr/0688.png" group-title="→ ENTRETENIMIENTO HD ←",LATINOS TV NY
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T6dDg08/0234.png" group-title="→ ENTRETENIMIENTO HD ←",MEGA TV
 http://line.asalico.com:80/play/live.php?mac=00:1A:79:CF:45:35&stream=790501&extension=ts
@@ -1661,6 +1667,9 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VYwptbG1/0479.png" group-title="→ COSTA RICA ←",ANTENA SEIS
 https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/chKtJMSD/0687.png" group-title="→ COSTA RICA ←",BEST CLASICOS TV
+https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBR3p4gh/0097.png" group-title="→ COSTA RICA ←",CANAL 7 TELETICA
 http://45.163.139.42:8000/play/a02k
