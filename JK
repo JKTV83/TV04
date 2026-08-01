@@ -1065,6 +1065,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMZPQpNm/0581.png" group-title="→ ENTRETENIMIENTO HD ←",TIGUERITOS TV
 https://ss2.tvrdomi.com:1936/tigueritostv/tigueritostv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99BJKvQw/0690.png" group-title="→ ENTRETENIMIENTO HD ←",TV HISPANIC
+https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1G4N1CXD/0345.png" group-title="→ ENTRETENIMIENTO HD ←",TV Y TV
 http://45.239.31.254:8000/play/a00d
 
