@@ -435,6 +435,9 @@ http://45.70.201.253:8889/play/a0h4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ CINE & SERIES HD ←",VOLVER ARG
 http://181.209.96.155:10000/play/a11z
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ CINE & SERIES HD ←",VOLVER ARG
+http://200.59.213.66:8000/play/a018
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGmFd36s/0370.png" group-title="→ CINE & SERIES HD ←",WARNER TV
 http://38.44.109.41:8003/play/a0fl
 
@@ -3361,3 +3364,26 @@ http://38.188.48.83:8000/play/a0lm
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/My04HQjP/0368.png" group-title="→ VENEZUELA ←",VEPACO TV
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5tJpDPJ/0691.png" group-title="→ PLUTO TV ←",CINE ADRENALINA +
+https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5tJpDPJ/0691.png" group-title="→ PLUTO TV ←",CINE ADRENALINA
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5tJpDPJ/0691.png" group-title="→ PLUTO TV ←",CINE AVENTURA
+https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5tJpDPJ/0691.png" group-title="→ PLUTO TV ←",CINE ESPAÑOL
+https://jmp2.uk/plu-5cf96b1c4f1ca3f0629f4bf0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5tJpDPJ/0691.png" group-title="→ PLUTO TV ←",CINE PREMIER
+https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
