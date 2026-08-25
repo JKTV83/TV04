@@ -2136,6 +2136,9 @@ http://200.69.80.179:5050/play/a17j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvRcv351/0110.png" group-title="→ EL SALVADOR ←",CANAL 21
 http://181.78.192.238:8000/play/a2at
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vvRcv351/0110.png" group-title="→ EL SALVADOR ←",CANAL 21
+http://45.185.163.75:8000/play/a0bz
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDV7w2Mj/0308.png" group-title="→ EL SALVADOR ←",SV+
 http://181.78.192.238:8000/play/a2cg
 
