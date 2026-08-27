@@ -1843,6 +1843,9 @@ http://103.23.62.238:8000/play/a02b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx5Pdqxz/0053.png" group-title="→ ECUADOR ←",AUSTRAL TV
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKnkcxBz/0696.png" group-title="→ ECUADOR ←",BOCHE TV
+http://38.44.109.41:8003/play/a0ie
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjfxwZCn/0424.png" group-title="→ ECUADOR ←",CANAL SUR LOJA
 https://canalsur.streamseguro.com/hls/canalsur-u-1080p.m3u8
 
@@ -1850,7 +1853,7 @@ https://canalsur.streamseguro.com/hls/canalsur-u-1080p.m3u8
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yFmnNBd5/0378.png" group-title="→ ECUADOR ←",COCAVISION
-http://38.44.109.41:8003/play/a01i
+http://38.44.109.41:8003/play/a0j1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/prLD7bbx/0404.png" group-title="→ ECUADOR ←",CURIQUINGUE TV
 https://video2.lhdserver.es/pjtv/live.m3u8
@@ -3277,6 +3280,9 @@ https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LhYYbqRT/0402.png" group-title="→ REP.DOM. ←",TELEMICRO
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pTPPvW7/0697.png" group-title="→ REP.DOM. ←",TELEMICRO INTERNACIONAL
+http://38.44.109.41:8003/play/a02q
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/355rt4TG/0325.png" group-title="→ REP.DOM. ←",TELENORD 8
 http://38.95.86.139:61400/play/a074
