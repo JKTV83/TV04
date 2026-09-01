@@ -436,6 +436,9 @@ http://45.70.201.253:8889/play/a0h4
 http://181.209.96.155:10000/play/a11z
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ CINE & SERIES HD ←",VOLVER ARG
+http://190.7.19.197:9000/play/a048
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ CINE & SERIES HD ←",VOLVER ARG
 http://200.59.213.66:8000/play/a018
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGmFd36s/0370.png" group-title="→ CINE & SERIES HD ←",WARNER TV
@@ -768,6 +771,9 @@ http://38.44.109.41:8003/play/a01j
 http://157.100.9.51:8000/play/abcd2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
+http://157.100.9.51:8000/play/a26g
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
 http://179.60.191.102:8000/play/a0in
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
@@ -778,9 +784,6 @@ http://181.78.192.238:8000/play/a2i0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
 http://181.78.192.238:8000/play/a2hp
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
-http://204.199.242.203:58000/play/a079
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
 http://204.199.242.203:58000/play/a079
@@ -1680,9 +1683,6 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBR3p4gh/0097.png" group-title="→ COSTA RICA ←",CANAL 7 TELETICA
 http://45.163.139.42:8000/play/a02k
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBR3p4gh/0097.png" group-title="→ COSTA RICA ←",CANAL 7 TELETICA
-http://200.69.80.179:5050/play/a168
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7MWb9LB/0395.png" group-title="→ COSTA RICA ←",CANAL 13 SINART
 http://45.5.117.99:8000/play/a050
 
@@ -1717,7 +1717,10 @@ https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u
 https://videohd.live:19360/8076/8076.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pqyH5kv/0281.png" group-title="→ COSTA RICA ←",REPRETEL 4
-http://200.69.80.179:5050/play/a17h
+http://38.52.208.106:8000/play/a03o
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pqyH5kv/0281.png" group-title="→ COSTA RICA ←",REPRETEL 4
+http://45.163.139.42:8000/play/a02p
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0pqyH5kv/0281.png" group-title="→ COSTA RICA ←",REPRETEL 4
 https://d35xpyc30huab3.cloudfront.net/index.m3u8
@@ -1726,16 +1729,16 @@ https://d35xpyc30huab3.cloudfront.net/index.m3u8
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fd4XRSXk/0282.png" group-title="→ COSTA RICA ←",REPRETEL 6
-http://181.78.192.238:8000/play/a2ce
+http://38.52.208.106:8000/play/a02p
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fd4XRSXk/0282.png" group-title="→ COSTA RICA ←",REPRETEL 6
-http://190.7.192.162:8001/play/s2
+http://45.163.139.42:8000/play/a02o
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fd4XRSXk/0282.png" group-title="→ COSTA RICA ←",REPRETEL 6
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ks7ZdWng/0283.png" group-title="→ COSTA RICA ←",REPRETEL 11
-http://181.78.192.238:8000/play/a2cf
+http://38.52.208.106:8000/play/a02q
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qS89pQw/0487.png" group-title="→ COSTA RICA ←",RETRO TV ONLINE
 https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
@@ -1793,6 +1796,9 @@ https://k20.usastreams.com:8081/tvsur/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMDQPGsx/0496.png" group-title="→ COSTA RICA ←",VOICE OVER RTV
 https://tvservices.fullhd-streaming.com:3941/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRr0NXyg/0700.png" group-title="→ COSTA RICA ←",XPER TV
+http://45.163.139.42:8000/play/a02x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7NT1ghkd/0497.png" group-title="→ COSTA RICA ←",ZURQUI TV
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
@@ -2091,6 +2097,12 @@ http://205.235.6.29:8000/play/a0yx
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JwjxBWXG/0422.png" group-title="→ ECUADOR ←",UNIANDES TV
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhQhfpzW/0698.png" group-title="→ ECUADOR ←",UBE TV
+http://205.235.6.29:8000/play/a11e
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMcQ2GyD/0699.png" group-title="→ ECUADOR ←",VITO TV
+http://205.235.6.29:8000/play/a0z2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTC8BsRq/0499.png" group-title="→ ECUADOR ←",VOZ & TV
 https://cloud37.ecuatel.com/vostv/live/chunklist_w1713510158.m3u8
