@@ -63,6 +63,9 @@ http://38.19.41.143:8000/play/a0bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WF4g872/0593.png" group-title="→ CINE & SERIES HD ←",CINE FRIKI
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PvmJvn3x/0703.png" group-title="→ CINE & SERIES HD ←",CINE HEROES
+https://lbgo.bozztv.com/ssh101/ssh101/imcu/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3xT3Lwg/0128.png" group-title="→ CINE & SERIES HD ←",CINE HISPANO
 http://38.134.250.110:8000/play/a02f
 
@@ -1357,6 +1360,9 @@ http://45.173.231.22:8000/play/a09x
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z6vnTfM3/0438.png" group-title="→ ARGENTINA ←",FACTORY CHANNEL CANAL 11
 https://videostream.shockmedia.com.ar:19360/factorylaverde/factorylaverde.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjrx2dPZ/0702.png" group-title="→ ARGENTINA ←",IPERSONICA TV
+https://lbgo.bozztv.com/ssh101/ssh101/ipersonica/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvVPtSth/0646.png" group-title="→ ARGENTINA ←",LDMTV ARGENTINA
 https://stream.arcast.net:4443/ldmtv/ldmtv/playlist.m3u8
 
@@ -1418,6 +1424,9 @@ https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/chunklist_w951965110.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hFTnW0j/0396.png" group-title="→ BOLIVIA ←",BOLIVIA PUNTO TV
 https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5hFTnW0j/0396.png" group-title="→ BOLIVIA ←",BOLIVIA PUNTO TV
+https://lbgo.bozztv.com/ssh101/ssh101/tv2024/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5gT7Xv85/0064.png" group-title="→ BOLIVIA ←",BOLIVIA TV
 http://45.5.151.62:8000/play/a02g
@@ -1837,6 +1846,9 @@ http://103.23.62.238:8000/play/a082
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jkCrmy7z/0022.png" group-title="→ ECUADOR ←",ALLY TV
 https://micanal.ovh/livestreams/142.RZYR3NWFIHKH.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MxnTmhjK/0701.png" group-title="→ ECUADOR ←",AMERICAN TV 6
+https://lbgo.bozztv.com/ssh101/ssh101/americantv006/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx5Pdqxz/0053.png" group-title="→ ECUADOR ←",AUSTRAL TV
 http://103.23.62.238:8000/play/a02b
 
@@ -2104,6 +2116,9 @@ http://205.235.6.29:8000/play/a0z2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HTC8BsRq/0499.png" group-title="→ ECUADOR ←",VOZ & TV
 https://cloud37.ecuatel.com/vostv/live/chunklist_w1713510158.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HTC8BsRq/0499.png" group-title="→ ECUADOR ←",VOZ & TV
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjCchWJJ/0423.png" group-title="→ ECUADOR ←",WUAN +
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 
@@ -2278,6 +2293,9 @@ https://cdn.streamhispanatv.net:3587/live/imagentvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Xr1BxPD3/0505.png" group-title="→ GUATEMALA ←",LUNA VISION
 https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TGqw5qL/0706.png" group-title="→ GUATEMALA ←",MEGAVISION
+https://lbgo.bozztv.com/ssh101/ssh101/megavision/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdQzm5P6/0239.png" group-title="→ GUATEMALA ←",MI HUEHUE TV
 http://45.186.106.194:9999/play/a008
@@ -3227,6 +3245,9 @@ http://200.69.80.179:5050/play/a17l
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mV0gH7xT/0552.png" group-title="→ REP.DOM. ←",CLARO TV DOMINICANA
 https://streamunoapp.com:3960/live/claroteledomlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5Qh5bwz/0705.png" group-title="→ REP.DOM. ←",CONSTANZA TV
+https://lbgo.bozztv.com/ssh101/ssh101/ctv8hd/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ynmf70ZR/0553.png" group-title="→ REP.DOM. ←",COTUBANAMA TV
 https://host.streamingnation.live/p/3588/hybrid/play.m3u8
 
@@ -3241,6 +3262,9 @@ https://s.emisoras.tv:8081/dtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gFbqFvjM/0555.png" group-title="→ REP.DOM. ←",EL PITUCO TV
 https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TBbCnpdH/0704.png" group-title="→ REP.DOM. ←",FABIAN VISION TV
+https://lbgo.bozztv.com/ssh101/ssh101/fabiantv182/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfVr4QyF/0556.png" group-title="→ REP.DOM. ←",IMAGEN UNIVERSAL TV
 https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
