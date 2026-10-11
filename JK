@@ -202,7 +202,13 @@ http://45.70.201.253:8889/play/a0g3
 http://201.151.118.136:8000/play/a00b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YywmGvS/0196.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER
+http://186.3.191.218:8000/play/a0zn
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YywmGvS/0196.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER
 http://200.59.188.3:8000/play/a198
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxz3c6zc/0197.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER 2
+http://200.10.163.132:8000/play/a0ih
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mxz3c6zc/0197.png" group-title="→ CINE & SERIES HD ←",GOLDEN PREMIER 2
 http://200.59.188.3:8000/play/a199
@@ -790,9 +796,6 @@ http://204.199.242.203:58000/play/a079
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
 http://204.199.246.85:58000/play/a001
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
-http://205.235.6.29:8000/play/a0nq
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcHgZW3H/0051.png" group-title="→ DEPORTES HD ←",ZAPPING SPORTS +
 http://205.235.6.29:8000/play/a11j
@@ -2805,6 +2808,15 @@ https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8?manifestfilter
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xt5kdDj/0611.png" group-title="→ PERU ←",DOBLE AA
 https://live.obslivestream.com/dobleaa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vx9XQ2sW/0711.png" group-title="→ PERU ←",EROS RTV
+http://200.10.163.132:8000/play/a0n9
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vx9XQ2sW/0711.png" group-title="→ PERU ←",EROS RTV
+http://200.10.163.132:8000/play/a0i2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vx9XQ2sW/0711.png" group-title="→ PERU ←",EROS RTV
+https://7.innovatestream.pe:19360/erostv/erostv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dfwh5tnJ/0643.png" group-title="→ PERU ←",FILLKA TV
 https://live-evg5.tv360.bitel.com.pe/bitel/fillka/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&uid=6697131
