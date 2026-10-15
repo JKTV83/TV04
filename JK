@@ -576,34 +576,10 @@ http://190.83.15.112:8000/play/a00p
 http://200.24.131.229:18080/play/a0bi
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20n5dN3q/0034.png" group-title="→ DEPORTES HD ←",ESPN
-http://38.44.109.41:8003/play/a0e6
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20n5dN3q/0034.png" group-title="→ DEPORTES HD ←",ESPN
-http://38.44.109.41:8003/play/a0c7
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20n5dN3q/0034.png" group-title="→ DEPORTES HD ←",ESPN
-http://38.44.109.41:8003/play/a0hc
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20n5dN3q/0034.png" group-title="→ DEPORTES HD ←",ESPN
 http://38.190.101.128:2233/play/a1kj
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/20n5dN3q/0034.png" group-title="→ DEPORTES HD ←",ESPN
 http://45.70.201.81:8000/play/a001
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20n5dN3q/0034.png" group-title="→ DEPORTES HD ←",ESPN
-http://45.70.201.253:8889/play/a0fh
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20n5dN3q/0034.png" group-title="→ DEPORTES HD ←",ESPN
-http://45.70.201.253:8889/play/a0ir
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/20n5dN3q/0034.png" group-title="→ DEPORTES HD ←",ESPN
-http://45.70.201.253:8889/play/a0dn
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNXPnk23/0035.png" group-title="→ DEPORTES HD ←",ESPN 2
-http://38.44.109.41:8003/play/a0gd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNXPnk23/0035.png" group-title="→ DEPORTES HD ←",ESPN 2
-http://38.44.109.41:8003/play/a0h3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WNXPnk23/0035.png" group-title="→ DEPORTES HD ←",ESPN 2
 http://38.190.101.128:2233/play/a1fg
@@ -2005,6 +1981,9 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bS3CxR2/0413.png" group-title="→ ECUADOR ←",PANTALLA CLASICA TV
 https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C5XKfRvN/0712.png" group-title="→ ECUADOR ←",PARIS TV
+http://45.185.163.75:8000/play/a0i5
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hJ7P9m4w/0399.png" group-title="→ ECUADOR ←",PJTV
 https://eu1.servers10.com:8081/8020/index.m3u8
 
@@ -2025,6 +2004,9 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMLZZTQ7/0416.png" group-title="→ ECUADOR ←",RED TVE VENTANAS
 https://s2.tvdatta.com:3825/live/redtvelive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nshhFQGV/0713.png" group-title="→ ECUADOR ←",REY TV
+http://45.185.163.75:8000/play/a0hv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNmssYxv/0417.png" group-title="→ ECUADOR ←",RTR TV LA TRONCAL
 https://tv3ecuador.site/hls/stream/index.m3u8
