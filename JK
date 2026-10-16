@@ -9,8 +9,8 @@ http://200.115.96.61:9090/play/a00p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvCxgpvL/0003.png" group-title="→ CINE & SERIES HD ←",A&E
 http://38.19.41.143:8000/play/a04u
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvCxgpvL/0003.png" group-title="→ CINE & SERIES HD ←",A&E
-http://45.172.92.111:8000/play/a0bv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WvCxgpvL/0003.png" group-title="→ CINE & SERIES HD ←",A&E MX
+http://45.189.151.7:8000/play/a059
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kCB4MqQ/0005.png" group-title="→ CINE & SERIES HD ←",AMC
 http://38.19.41.143:8000/play/a0cw
@@ -32,6 +32,9 @@ http://45.239.31.254:8000/play/a007
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5X3r4HBC/0049.png" group-title="→ CINE & SERIES HD ←",AXN
 http://38.19.41.143:8000/play/a07g
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5X3r4HBC/0049.png" group-title="→ CINE & SERIES HD ←",AXN MX
+http://45.189.151.7:8000/play/a05h
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K4Ydxzc/0054.png" group-title="→ CINE & SERIES HD ←",AZTECA CINEMA
 http://190.108.90.142:8000/play/a03d
@@ -80,6 +83,9 @@ http://181.78.192.238:8000/play/a2aj
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b5FFSmSf/0133.png" group-title="→ CINE & SERIES HD ←",CINECANAL
 http://38.19.41.143:8000/play/a0bj
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b5FFSmSf/0133.png" group-title="→ CINE & SERIES HD ←",CINECANAL MX
+http://45.189.151.7:8000/play/a060
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fjPDC6K/0134.png" group-title="→ CINE & SERIES HD ←",CINEMA GLOBAL
 http://190.61.42.218:9000/play/a08e
@@ -330,17 +336,8 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/67307M3x/0302.png" group-title="→ CINE & SERIES HD ←",SONY MOVIES
 http://38.44.109.41:8003/play/a0el
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7s9rbLy/0303.png" group-title="→ CINE & SERIES HD ←",SPACE
-http://38.44.109.41:8003/play/a0fi
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7s9rbLy/0303.png" group-title="→ CINE & SERIES HD ←",SPACE
-http://38.44.109.41:8003/play/a0i2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7s9rbLy/0303.png" group-title="→ CINE & SERIES HD ←",SPACE
-http://38.52.200.209:8000/play/a01y
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7s9rbLy/0303.png" group-title="→ CINE & SERIES HD ←",SPACE
-http://45.70.201.253:8889/play/a0i8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7s9rbLy/0303.png" group-title="→ CINE & SERIES HD ←",SPACE MX
+http://45.189.151.7:8000/play/a07g
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PGt9R6nR/0304.png" group-title="→ CINE & SERIES HD ←",STAR CHANNEL
 http://38.44.109.41:8003/play/a0fj
