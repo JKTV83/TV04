@@ -22,7 +22,7 @@ http://38.19.41.143:8000/play/a0cw
 http://148.227.219.186:3000/play/a01z
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0qPRCrR/0006.png" group-title="→ CINE & SERIES HD ←",AMC SERIES
-http://38.44.109.41:8003/play/a0ct
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvB5nBb9/0007.png" group-title="→ CINE & SERIES HD ←",AVI
 http://45.239.31.254:8000/play/a004
@@ -184,13 +184,7 @@ http://148.227.219.186:3000/play/a021
 http://148.227.219.186:3000/play/a038
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F4vhgw1C/0194.png" group-title="→ CINE & SERIES HD ←",GOLDEN EDGE
-http://38.44.109.41:8003/play/a0d0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4vhgw1C/0194.png" group-title="→ CINE & SERIES HD ←",GOLDEN EDGE
-http://38.44.109.41:8003/play/a002
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F4vhgw1C/0194.png" group-title="→ CINE & SERIES HD ←",GOLDEN EDGE
-http://45.70.201.253:8889/play/a0g3
+http://38.190.101.128:2233/play/a1hg
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4Qk7kNS/0195.png" group-title="→ CINE & SERIES HD ←",GOLDEN PLUS
 http://201.151.118.136:8000/play/a00b
@@ -527,19 +521,17 @@ http://38.190.101.128:2233/play/a1lp
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wFRYGQCy/0038.png" group-title="→ DEPORTES HD ←",ESPN 5
 http://38.190.101.128:2233/play/a1kv
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N0Zk3Gf/0039.png" group-title="→ DEPORTES HD ←",ESPN 6
 http://38.190.101.128:2233/play/a01t
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvyV6TkV/0040.png" group-title="→ DEPORTES HD ←",ESPN 7
 http://38.190.101.128:2233/play/a01s
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mxf9y0fb/0041.png" group-title="→ DEPORTES HD ←",ESPN PREMIUM ARG
 http://38.190.101.128:2233/play/a1hk
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6hSccnv/0600.png" group-title="→ DEPORTES HD ←",FOX SPORTS
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6hSccnv/0600.png" group-title="→ DEPORTES HD ←",FOX SPORTS MX
+http://148.227.219.186:3000/play/a04a/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PsyCsjL9/0601.png" group-title="→ DEPORTES HD ←",FOX SPORTS 2
 
