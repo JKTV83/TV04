@@ -22,7 +22,7 @@ http://38.19.41.143:8000/play/a0cw
 http://148.227.219.186:3000/play/a01z
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0qPRCrR/0006.png" group-title="→ CINE & SERIES HD ←",AMC SERIES
-
+http://45.173.231.22:8000/play/a0ct
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WvB5nBb9/0007.png" group-title="→ CINE & SERIES HD ←",AVI
 http://45.239.31.254:8000/play/a004
@@ -140,6 +140,9 @@ http://186.5.85.190:8000/play/a04b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B5xpQsKp/0389.png" group-title="→ CINE & SERIES HD ←",CREO SERIES
 http://186.5.85.187:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pvcgKYHV/0154.png" group-title="→ CINE & SERIES HD ←",DE PELICULA
+http://45.163.204.6:8000/play/a00e/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pvcgKYHV/0154.png" group-title="→ CINE & SERIES HD ←",DE PELICULA
 http://45.173.231.22:8000/play/a07j
@@ -797,6 +800,9 @@ http://179.60.224.196:8000/play/a0e3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X1WZSMd/0144.png" group-title="→ ENTRETENIMIENTO HD ←",COMO ANTES TV
 https://tvstream.alojawebgt.net:3358/live/comoantestvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yn07ghJf/0169.png" group-title="→ ENTRETENIMIENTO HD ←",DISTRITO COMEDIA
+http://45.173.231.22:8000/play/a0d3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yn07ghJf/0169.png" group-title="→ ENTRETENIMIENTO HD ←",DISTRITO COMEDIA
 http://190.83.9.222:8000/play/ca050
