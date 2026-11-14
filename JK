@@ -376,9 +376,6 @@ http://148.227.219.186:3000/play/a059
 http://45.172.92.111:8000/play/a0b1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ CINE & SERIES HD ←",VOLVER ARG
-http://181.209.96.155:10000/play/a11z
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ CINE & SERIES HD ←",VOLVER ARG
 http://190.7.19.197:9000/play/a048
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBN4ZBw2/0215.png" group-title="→ CINE & SERIES HD ←",VOLVER ARG
@@ -561,13 +558,16 @@ http://179.60.224.196:8000/play/a0f4
 http://179.60.224.196:8000/play/a0j0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
+http://190.7.19.197:9000/play/a04w
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
 http://157.100.9.51:8000/play/a1wi
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
-http://181.224.89.128:5180/play/a1te
+http://45.173.231.22:8000/play/a08y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
-http://45.173.231.22:8000/play/a08y
+http://181.224.89.128:5180/play/a1te
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60Mc6VL8/0372.png" group-title="→ DEPORTES HD ←",WIN SPORTS
 http://45.173.231.22:8000/play/a050
