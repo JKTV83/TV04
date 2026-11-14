@@ -495,6 +495,9 @@ http://38.190.101.128:2233/play/a01t
 http://38.190.101.128:2233/play/a01s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mxf9y0fb/0041.png" group-title="→ DEPORTES HD ←",ESPN PREMIUM ARG
+http://45.173.231.22:8000/play/a072
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Mxf9y0fb/0041.png" group-title="→ DEPORTES HD ←",ESPN PREMIUM ARG
 http://38.190.101.128:2233/play/a1hk
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6hSccnv/0600.png" group-title="→ DEPORTES HD ←",FOX SPORTS MX
