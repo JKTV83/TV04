@@ -519,7 +519,7 @@ http://148.227.219.186:3000/play/a06l
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZnZYpyt/0222.png" group-title="→ DEPORTES HD ←",LIGA 1 PE
-
+http://38.210.105.10:8000/play/a0d5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TDRTGjSf/0223.png" group-title="→ DEPORTES HD ←",LIGA 1 MAX PE
 http://157.100.9.51:8000/play/a1t0
@@ -532,6 +532,9 @@ http://45.186.106.194:9999/play/a06z
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ksZfqhCb/0298.png" group-title="→ DEPORTES HD ←",SKY SPORTS
 http://148.227.219.186:3000/play/a06b
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6c4KKd9D/0085.png" group-title="→ DEPORTES HD ←",TIGO SPORTS GT
+http://38.210.105.10:8000/play/a0i1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6c4KKd9D/0085.png" group-title="→ DEPORTES HD ←",TIGO SPORTS GT
 http://45.5.118.152:8000/play/a08x
@@ -556,6 +559,12 @@ http://179.60.224.196:8000/play/a0f4
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S8wVzq3/0086.png" group-title="→ DEPORTES HD ←",TUDN
 http://179.60.224.196:8000/play/a0j0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
+http://157.100.9.51:8000/play/a1wi
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
+http://181.224.89.128:5180/play/a1te
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
 http://45.173.231.22:8000/play/a08y
