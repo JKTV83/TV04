@@ -509,11 +509,14 @@ http://148.227.219.186:3000/play/a06o
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6hSccnv/0600.png" group-title="→ DEPORTES HD ←",FOX SPORTS GT
 http://148.227.219.186:3000/play/a06l
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PsyCsjL9/0601.png" group-title="→ DEPORTES HD ←",FOX SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsyCsjL9/0601.png" group-title="→ DEPORTES HD ←",FOX SPORTS 1
+http://190.7.19.197:9000/play/a05u
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsyCsjL9/0601.png" group-title="→ DEPORTES HD ←",FOX SPORTS 2
+http://190.7.19.197:9000/play/a03p
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5hvB7ffz/0602.png" group-title="→ DEPORTES HD ←",FOX SPORTS 3
-
+http://190.7.19.197:9000/play/a04x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4ZnZYpyt/0222.png" group-title="→ DEPORTES HD ←",LIGA 1 PE
 http://38.210.105.10:8000/play/a0d5
@@ -694,25 +697,13 @@ http://38.44.109.41:8003/play/a0fu
 http://45.70.201.253:8889/play/a0dj
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/205T0hG1/0050.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA 7
-http://38.49.128.38:8000/play/a0la
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/205T0hG1/0050.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA 7
-http://45.167.253.246:8010/play/a00o
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WW4hM7Wq/0057.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA INTERNACIONAL
-http://103.23.62.238:8000/play/a04p
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WW4hM7Wq/0057.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA INTERNACIONAL
-http://38.41.8.1:8000/play/a0yf
+http://45.5.117.57:8900/play/a04u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WW4hM7Wq/0057.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tfC2vS7/0058.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA UNO
-http://38.44.109.41:8003/play/a033
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tfC2vS7/0058.png" group-title="→ ENTRETENIMIENTO HD ←",AZTECA UNO
-http://45.167.253.246:8010/play/a005
+http://190.83.9.222:8000/play/ca068
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zHRm4Mkf/0574.png" group-title="→ ENTRETENIMIENTO HD ←",CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v3a1/mono.m3u8
@@ -722,9 +713,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGYtpVTs/0143.png" group-title="→ ENTRETENIMIENTO HD ←",COMEDY CENTRAL
 http://191.52.214.129:8000/play/a08d
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rGYtpVTs/0143.png" group-title="→ ENTRETENIMIENTO HD ←",COMEDY CENTRAL
-http://200.115.120.1:8000/play/ca108
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X1WZSMd/0144.png" group-title="→ ENTRETENIMIENTO HD ←",COMO ANTES TV
 http://179.60.224.196:8000/play/a0e3
@@ -764,9 +752,6 @@ https://video02.logicahost.com.br/classic/classic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JR77jn92/0042.png" group-title="→ ENTRETENIMIENTO HD ←",ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JR77jn92/0042.png" group-title="→ ENTRETENIMIENTO HD ←",ESTRELLA TV
-http://38.95.86.139:61400/play/a06x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JR77jn92/0042.png" group-title="→ ENTRETENIMIENTO HD ←",ESTRELLA TV
 http://line.asalico.com:80/play/live.php?mac=00:1A:79:CF:45:35&stream=1920285&extension=ts
@@ -881,6 +866,9 @@ http://185.56.109.253:80/Unicable/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3yMv40QF/0357.png" group-title="→ ENTRETENIMIENTO HD ←",UNICABLE
 http://45.186.106.194:9999/play/a06p
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3yMv40QF/0357.png" group-title="→ ENTRETENIMIENTO HD ←",UNICABLE
+http://190.83.9.222:8000/play/ca072
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxqHGczR/0358.png" group-title="→ ENTRETENIMIENTO HD ←",UNIMAS
 http://168.228.44.241:9997/play/a09e
@@ -1128,6 +1116,9 @@ http://179.51.136.23:8000/play/a07f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7ds0zmh8/0176.png" group-title="→ ARGENTINA ←",EL TRECE
 http://179.51.136.23:8000/play/a08d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7ds0zmh8/0176.png" group-title="→ ARGENTINA ←",EL TRECE
+http://190.7.19.197:9000/play/a05a
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgwqRwBw/0177.png" group-title="→ ARGENTINA ←",EL TRECE INTERNACIONAL
 http://38.44.109.41:8003/play/a0ft
