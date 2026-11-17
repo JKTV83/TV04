@@ -1942,40 +1942,37 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PqYCCDy/0070.png" group-title="→ EL SALVADOR ←",CANAL 2
-http://181.78.192.238:8000/play/a2bg
+http://82.111.78.5:8000/play/a0ct
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwMvs83m/0074.png" group-title="→ EL SALVADOR ←",CANAL 4
-http://181.78.192.238:8000/play/a2du
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SwMvs83m/0074.png" group-title="→ EL SALVADOR ←",CANAL 4
-http://200.229.147.210:9999/play/a00f
+http://82.111.78.5:8000/play/a0gm
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTB9ftBc/0095.png" group-title="→ EL SALVADOR ←",CANAL 6
-http://168.228.44.241:9999/play/a044
+http://82.111.78.5:8000/play/a0g1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GfYK0tJr/0100.png" group-title="→ EL SALVADOR ←",CANAL 10
-http://181.78.192.238:8000/play/a2dt
+http://82.111.78.5:8000/play/a0gk
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GfYK0tJr/0100.png" group-title="→ EL SALVADOR ←",CANAL 10
+http://82.111.78.5:8000/play/a0gl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whTYsgNL/0104.png" group-title="→ EL SALVADOR ←",CANAL 11 TUTV
 http://200.69.80.179:5050/play/a0wa
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKHcbNkC/0105.png" group-title="→ EL SALVADOR ←",CANAL 12 ESA
-http://200.69.80.179:5050/play/a17j
+http://82.111.78.5:8000/play/a0g2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvRcv351/0110.png" group-title="→ EL SALVADOR ←",CANAL 21
-http://181.78.192.238:8000/play/a2at
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vvRcv351/0110.png" group-title="→ EL SALVADOR ←",CANAL 21
-http://45.185.163.75:8000/play/a0bz
+http://82.111.78.5:8000/play/a0fq
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SDV7w2Mj/0308.png" group-title="→ EL SALVADOR ←",SV+
 http://181.78.192.238:8000/play/a2cg
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WWZ22s25/0349.png" group-title="→ EL SALVADOR ←",TVM
-http://181.78.192.238:8000/play/a2au
+http://82.111.78.5:8000/play/a0f0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx9ZMBdJ/0351.png" group-title="→ EL SALVADOR ←",TVO
-http://181.78.192.238:8000/play/a2aq
+http://82.111.78.5:8000/play/a0f3
 
 
 
@@ -3045,10 +3042,16 @@ https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/chunklist_w207644
 http://38.95.86.139:61400/play/a07b
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wh9VXz8P/0024.png" group-title="→ REP.DOM. ←",AME TV
+http://82.111.78.5:8000/play/a0ny
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wh9VXz8P/0024.png" group-title="→ REP.DOM. ←",AME TV
 http://181.119.83.235:8000/play/C063
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0ymHzybd/0031.png" group-title="→ REP.DOM. ←",ANTENA 7
-http://181.78.192.238:8000/play/a2cz
+http://82.111.78.5:8000/play/a0hq
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0ymHzybd/0031.png" group-title="→ REP.DOM. ←",ANTENA 7
+http://82.111.78.5:8000/play/a0nl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZFTYY8j/0032.png" group-title="→ REP.DOM. ←",ANTENA 21
 http://200.69.80.179:5050/play/a17l
