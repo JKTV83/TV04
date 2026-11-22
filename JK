@@ -327,6 +327,9 @@ http://45.239.31.254:8000/play/a026
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2DG2p3q/0285.png" group-title="→ CINE & SERIES HD ←",RETRO CINE TV
 http://45.239.31.254:8000/play/a01e
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4wrCdZZ/0739.png" group-title="→ CINE & SERIES HD ←",RETRO CITY CINEMA
+https://183.giatvcdn.com/ssh101/ssh101/retrocitycinema/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xq48jkgW/0286.png" group-title="→ CINE & SERIES HD ←",REWIND
 http://38.19.41.46:8000/play/a03e
 
@@ -395,6 +398,9 @@ http://200.60.124.25:8000/play/a0n1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8L8YTj7r/0028.png" group-title="→ CINE & SERIES HD ←",WESTV
 http://38.252.215.33:8000/play/a01r
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMT7C9bf/0742.png" group-title="→ CINE & SERIES HD ←",WOW MOVIES
+https://183.giatvcdn.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r25mfWPs/0374.png" group-title="→ CINE & SERIES HD ←",XTIME CHANNEL
 http://190.105.128.198:5800/play/a088
@@ -774,6 +780,9 @@ http://200.59.188.3:8000/play/a0xd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DDpYcT0x/0716.png" group-title="→ ENTRETENIMIENTO HD ←",LA PODEROSA TV CANAL 21
 https://183.giatvcdn.com/ssh101/ssh101/lapoderosadigit/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DDpYcT0x/0716.png" group-title="→ ENTRETENIMIENTO HD ←",LA PODEROSA TV CANAL 21
+https://videostream.shockmedia.com.ar/hls/canal21hd/canal21hd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0ZCbwV2/0220.png" group-title="→ ENTRETENIMIENTO HD ←",LAS ESTRELLAS
 http://38.44.109.41:8003/play/a0he
 
@@ -899,6 +908,9 @@ http://45.186.106.194:9999/play/a065
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KzVRfV09/0363.png" group-title="→ ENTRETENIMIENTO HD ←",UNIVISION
 http://168.228.44.241:9997/play/a09d
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q32z3Hhj/0745.png" group-title="→ ENTRETENIMIENTO HD ←",VISION CHANNEL
+https://cloudpro.servidoresdestream.com:8081/8028/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0Pg92y/0582.png" group-title="→ ENTRETENIMIENTO HD ←",VISION HD 20
 https://live20.bozztv.com/akamaissh101/ssh101/visionhdrd/playlist.m3u8
@@ -1118,7 +1130,7 @@ http://179.51.136.23:8000/play/a06o
 http://181.209.96.155:10000/play/a12f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5yGwPCW/0437.png" group-title="→ ARGENTINA ←",CIUDAD MAGICA TV
-https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/playlist.m3u8
+https://183.giatvcdn.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LD2RJcrH/0149.png" group-title="→ ARGENTINA ←",COSMOS TV
 http://181.119.83.235:8000/play/C073
@@ -1485,6 +1497,9 @@ https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBR3p4gh/0097.png" group-title="→ COSTA RICA ←",CANAL 7 TELETICA
 http://45.163.139.42:8000/play/a02k
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhXPWYKV/0741.png" group-title="→ COSTA RICA ←",CANAL 10.0
+https://acceso.mediosdecostarica.com:3417/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Q7MWb9LB/0395.png" group-title="→ COSTA RICA ←",CANAL 13 SINART
 http://45.5.117.99:8000/play/a050
 
@@ -1543,7 +1558,7 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 http://38.52.208.106:8000/play/a02q
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qS89pQw/0487.png" group-title="→ COSTA RICA ←",RETRO TV ONLINE
-https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/playlist.m3u8
+https://stream.enlineatv.net/hls/retrotv/1_2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HqT09VH/0488.png" group-title="→ COSTA RICA ←",RETRO TV PALMARES
 https://183.giatvcdn.com/ssh101/ssh101/tvretropalm2020/playlist.m3u8
@@ -1572,6 +1587,9 @@ http://181.119.83.235:8000/play/C078
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1YV50b/0330.png" group-title="→ COSTA RICA ←",TELESISTEMA
 https://k20.usastreams.com:8081/telesistema/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSQHvpv5/0742.png" group-title="→ COSTA RICA ←",TELESUR
+https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mVQtGDrN/0489.png" group-title="→ COSTA RICA ←",TELE UNO TV
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
@@ -1582,7 +1600,7 @@ https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/chunklist_w1837623903
 https://k20.usastreams.com:8081/tvplus/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPb33G5B/0493.png" group-title="→ COSTA RICA ←",TV NOSARA
-https://latamvdo.com:3870/hybrid/play.m3u8
+https://nosaravdo.online:3707/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhZM3PBt/0494.png" group-title="→ COSTA RICA ←",TV SUR CANAL 9
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
@@ -1650,6 +1668,9 @@ https://183.giatvcdn.com/ssh101/ssh101/americantv006/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mx5Pdqxz/0053.png" group-title="→ ECUADOR ←",AUSTRAL TV
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YFFSKfkb/0740.png" group-title="→ ECUADOR ←",BACAN TVO
+https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKnkcxBz/0696.png" group-title="→ ECUADOR ←",BOCHE TV
 
@@ -1780,6 +1801,9 @@ https://eu1.servers10.com:8081/8020/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzPmBWfg/0414.png" group-title="→ ECUADOR ←",PLANETA RADIO TV
 https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzPmBWfg/0414.png" group-title="→ ECUADOR ←",PLANETA RADIO TV
+https://183.giatvcdn.com/ssh101/ssh101/planeta55tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99VnRzmh/0415.png" group-title="→ ECUADOR ←",PLUSTV
 https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
@@ -1823,7 +1847,7 @@ https://live.obslivestream.com/sonoondatv/index.m3u8
 https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7MSGjsx/0693.png" group-title="→ ECUADOR ←",STUDIO + TV
-https://cloudvideo.servers10.com:8081/8184/index.m3u8
+https://vd01.streaminghd.net.ar:3113/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6JFWp4wR/0429.png" group-title="→ ECUADOR ←",TELEVISION QUEVEDEÑA
 https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
@@ -2078,6 +2102,9 @@ https://lbgo.bozztv.com/ssh101/ssh101/megavision/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LdQzm5P6/0239.png" group-title="→ GUATEMALA ←",MI HUEHUE TV
 http://45.186.106.194:9999/play/a008
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CpSbWZvB/0737.png" group-title="→ GUATEMALA ←",SANCRISVISION
+https://183.giatvcdn.com/ssh101/ssh101/sancrisvision/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Pz32dfXf/0506.png" group-title="→ GUATEMALA ←",SAS TV
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
@@ -2227,6 +2254,9 @@ https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C5PBvD7z/0520.png" group-title="→ MEXICO ←",CANAL 28
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YFr0dfD/0743.png" group-title="→ MEXICO ←",CANAL LMS
+https://183.giatvcdn.com/ssh101/ssh101/canallms/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ykkHMZx/0212.png" group-title="→ MEXICO ←",IMAGEN TV
 http://201.151.118.136:8000/play/a001
@@ -2489,7 +2519,10 @@ http://200.60.124.25:8000/play/a0ka
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9HRSPDBp/0060.png" group-title="→ PERU ←",BELLA ABANQUINA TV
-https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8?
+https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NgLCL5Qz/0746.png" group-title="→ PERU ←",BEX TV
+https://cloudpro.servidoresdestream.com:8081/8070/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/605wfm4m/0061.png" group-title="→ PERU ←",BHTV
 https://sc1.wasidata.com/Bhtv/index.fmp4.m3u8
@@ -2577,6 +2610,12 @@ https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8?manifestfilter
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7xt5kdDj/0611.png" group-title="→ PERU ←",DOBLE AA
 https://live.obslivestream.com/dobleaa/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKhzHYVV/0738.png" group-title="→ PERU ←",ECOTV
+https://183.giatvcdn.com/ssh101/ssh101/satipocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xk4sMYgx/0744.png" group-title="→ PERU ←",ECO XTREMO TV
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vx9XQ2sW/0711.png" group-title="→ PERU ←",EROS RTV
 http://200.10.163.132:8000/play/a0n9
