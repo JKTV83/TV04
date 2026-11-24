@@ -468,13 +468,13 @@ http://181.224.89.128:5180/play/a1jz
 http://45.173.231.22:8000/play/a0dw
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TJVK0bD/0081.png" group-title="→ DEPORTES HD ←",DSPORTS 2
-http://38.210.105.10:8000/play/a0j5
+http://190.7.19.197:9000/play/a09h
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TJVK0bD/0081.png" group-title="→ DEPORTES HD ←",DSPORTS 2
-http://190.60.44.98:9000/play/a00l
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HLGpkcCZ/0087.png" group-title="→ DEPORTES HD ←",DSPORTS PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLGpkcCZ/0087.png" group-title="→ DEPORTES HD ←",DSPORTS +
 http://38.190.101.128:2233/play/a1ez
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLGpkcCZ/0087.png" group-title="→ DEPORTES HD ←",DSPORTS +
+http://38.210.105.10:8000/play/a0j5
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6QKDnyV/0082.png" group-title="→ DEPORTES HD ←",ECDF
 http://45.173.231.22:8000/play/a00q
@@ -886,6 +886,9 @@ https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
 http://45.172.92.111:8000/play/a0mg
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3m1mwm3c/0324.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PR
+http://38.95.86.139:61400/play/a07a
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3m1mwm3c/0324.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PR
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3m1mwm3c/0324.png" group-title="→ ENTRETENIMIENTO HD ←",TELEMUNDO PR
@@ -1129,6 +1132,9 @@ http://45.70.201.253:8889/play/a094
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFsmyHy9/0773.png" group-title="→ ARGENTINA ←",13 MAX
+https://617c5175c970b.streamlock.net:4444/13max2/live13maxtv2026/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5XH9yqwd/0025.png" group-title="→ ARGENTINA ←",AMERICA TV
 http://45.5.151.62:8000/play/a00f
 
@@ -1136,7 +1142,13 @@ http://45.5.151.62:8000/play/a00f
 http://45.5.151.62:8000/play/a02t
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JF5nQLxQ/0433.png" group-title="→ ARGENTINA ←",CANAL 2 MISIONES
-https://nd106.republicaservers.com:4433/hls/canal2misioness/1_0/index.m3u8
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HpBGPYjL/0768.png" group-title="→ ARGENTINA ←",CANAL 3 ARROYITO
+https://envivo.cespalarroyito.coop/live/Canal3Arroyito.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Q3xZL7b8/0769.png" group-title="→ ARGENTINA ←",CANAL 3 PINAMAR
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xKN7Cd9k/0748.png" group-title="→ ARGENTINA ←",CANAL 4 POSADAS
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
@@ -1144,11 +1156,26 @@ https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvgmZxJr/0434.png" group-title="→ ARGENTINA ←",CANAL 7 SALTA
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/twS85R53/0720.png" group-title="→ ARGENTINA ←",CANAL 8 SAN JUAN
+https://183.giatvcdn.com/ssh101/ssh101/canal8sanjuan/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d0q0cZRQ/0770.png" group-title="→ ARGENTINA ←",CANAL 9 IMAGEN NOROESTE
+https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HfyWTG2j/0435.png" group-title="→ ARGENTINA ←",CANAL 9 LITORAL
 https://stream.arcast.live/ahora/ahora/chunklist_w1624577294.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MySnhq5V/0436.png" group-title="→ ARGENTINA ←",CANAL 9 RESISTENCIA
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/chunklist_w375629963_b644100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6CpcX1B/0777.png" group-title="→ ARGENTINA ←",CANAL 10 SENILLOSA
+https://player.videohost.click/senillosatv/senillosatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxTG8dCq/0767.png" group-title="→ ARGENTINA ←",CANAL NEXT
+https://edge.enhdtv.com/nexthd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8DFxym7V/0772.png" group-title="→ ARGENTINA ←",CARAS TV
+https://unlimited1-us.dps.live/carastv/carastv.smil/carastv/livestream0/chunks.m3u8?nimblesessionid=1101309522
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Y0TLRhp/0137.png" group-title="→ ARGENTINA ←",CIUDAD MAGAZINE
 http://179.51.136.23:8000/play/a06o
@@ -1166,31 +1193,19 @@ http://181.119.83.235:8000/play/C073
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZpCf409y/0175.png" group-title="→ ARGENTINA ←",EL NUEVE
-http://179.51.136.23:8000/play/a03m
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpCf409y/0175.png" group-title="→ ARGENTINA ←",EL NUEVE
 http://179.51.136.23:8000/play/a04c
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/twS85R53/0720.png" group-title="→ ARGENTINA ←",EL OCHO DE SAN JUAN
-https://183.giatvcdn.com/ssh101/ssh101/canal8sanjuan/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7ds0zmh8/0176.png" group-title="→ ARGENTINA ←",EL TRECE
-http://179.51.136.23:8000/play/a07f
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7ds0zmh8/0176.png" group-title="→ ARGENTINA ←",EL TRECE
-http://179.51.136.23:8000/play/a08d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7ds0zmh8/0176.png" group-title="→ ARGENTINA ←",EL TRECE
 http://190.7.19.197:9000/play/a05a
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NgwqRwBw/0177.png" group-title="→ ARGENTINA ←",EL TRECE INTERNACIONAL
-http://38.44.109.41:8003/play/a0ft
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7ds0zmh8/0176.png" group-title="→ ARGENTINA ←",EL TRECE
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgwqRwBw/0177.png" group-title="→ ARGENTINA ←",EL TRECE INTERNACIONAL
 http://45.173.231.22:8000/play/a09x
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgwqRwBw/0177.png" group-title="→ ARGENTINA ←",EL TRECE INTERNACIONAL
-http://157.100.9.51:8000/play/a22k/index.m3u8
+http://157.100.9.51:8000/play/a22k
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z6vnTfM3/0438.png" group-title="→ ARGENTINA ←",FACTORY CHANNEL CANAL 11
 https://videostream.shockmedia.com.ar:19360/factorylaverde/factorylaverde.m3u8
@@ -1204,20 +1219,35 @@ https://stream.arcast.net:4443/ldmtv/ldmtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhZJCGGL/0439.png" group-title="→ ARGENTINA ←",METRO TV CANAL 12
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/39bccxqk/0774.png" group-title="→ ARGENTINA ←",MISIONES CUATRO
+https://iptv.ixfo.com.ar:30443/live-HD/MISIONES4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3yM5LvKv/0775.png" group-title="→ ARGENTINA ←",MULTIVISION FEDERAL
+https://videostream.shockmedia.com.ar/hls/multivisionfederal/multivisionfederal.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4n04pFY8/0440.png" group-title="→ ARGENTINA ←",MULTIVISION TV DIGITAL
 https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5tGRtv0/0441.png" group-title="→ ARGENTINA ←",NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRqzcGK6/0776.png" group-title="→ ARGENTINA ←",NEOX TV CANAL 37
+https://tv.streamcasthd.com:3031/live/neoxtvlive.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fPWf9r1/0442.png" group-title="→ ARGENTINA ←",NET TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1fPWf9r1/0442.png" group-title="→ ARGENTINA ←",NET TV
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?
+https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chw2Y31v/0294.png" group-title="→ ARGENTINA ←",SAN LUIS +
 http://38.95.86.139:61400/play/a07m
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zMb5vTk/0778.png" group-title="→ ARGENTINA ←",SICARDI
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kc2m5XjW/0771.png" group-title="→ ARGENTINA ←",TDC
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Df9TzjX6/0090.png" group-title="→ ARGENTINA ←",TELEFE
 http://38.44.109.41:8003/play/a0ev
@@ -1230,6 +1260,9 @@ http://45.173.231.22:8000/play/a053
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KcYfpV6n/0443.png" group-title="→ ARGENTINA ←",TELEJUNIN
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h1J4LY5J/0779.png" group-title="→ ARGENTINA ←",TELEMAX
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zjJw26c/0444.png" group-title="→ ARGENTINA ←",TV CINCO
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
