@@ -605,6 +605,12 @@ http://45.173.231.22:8000/play/a08y
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
 http://181.224.89.128:5180/play/a1te
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
+https://live-04-11-tyc-app-web.vodgc.net/tyc24/index_tyc24_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8yGhjMB/0249.png" group-title="→ DEPORTES HD ←",TyC SPORTS
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/60Mc6VL8/0372.png" group-title="→ DEPORTES HD ←",WIN SPORTS
 http://45.173.231.22:8000/play/a050
 
@@ -1258,6 +1264,9 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kc2m5XjW/0771.png" group-title="→ ARGENTINA ←",TDC
 https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nMNBWt9j/0784.png" group-title="→ ARGENTINA ←",TELECREATIVA
+https://panel.host-live.com:19360/8012/8012.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Df9TzjX6/0090.png" group-title="→ ARGENTINA ←",TELEFE
 http://38.44.109.41:8003/play/a0ev
 
@@ -1272,6 +1281,9 @@ https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h1J4LY5J/0779.png" group-title="→ ARGENTINA ←",TELEMAX
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LzNmYyD2/0785.png" group-title="→ ARGENTINA ←",TELESOL
+https://cdn1.tvlin.net/open/telesol/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSXNFRFw/0780.png" group-title="→ ARGENTINA ←",TIV
 https://videohd.live:19360/8008/8008.m3u8
@@ -1323,17 +1335,32 @@ https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/chunklist_w2039318161.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2TVKCqc/0448.png" group-title="→ BOLIVIA ←",CEACOM TV
 https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HbrydvK/0787.png" group-title="→ BOLIVIA ←",CINERAMA
+https://tv.cineramatvbo.com/hls/stream.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XfV7jktj/0449.png" group-title="→ BOLIVIA ←",CORAL TV
 https://tv.mediacp.eu:8081/coraltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4sBFXhD/0788.png" group-title="→ BOLIVIA ←",CTV RED NACIONAL
+https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kpc6wGZL/0584.png" group-title="→ BOLIVIA ←",DELTA TV
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FbZv8VtW/0790.png" group-title="→ BOLIVIA ←",EXITOSA TV
+https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hR9yBZSz/0450.png" group-title="→ BOLIVIA ←",F10 TV HD
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0BhkwgD/0789.png" group-title="→ BOLIVIA ←",FAP TV
+https://edge.enhdtv.com/faptv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzCRtD4d/0585.png" group-title="→ BOLIVIA ←",GIGAVISION
 https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WW2f32SK/0786.png" group-title="→ BOLIVIA ←",GO TV
+https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whm4VkhQ/0397.png" group-title="→ BOLIVIA ←",GUADALUPE TV SUCRE
 https://live20.bozztv.com/akamaissh101/ssh101/guadalupetv/playlist.m3u8
@@ -1359,11 +1386,17 @@ https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd321166884522124
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XZxmQFj1/0452.png" group-title="→ BOLIVIA ←",RTP
 https://rtp.noxun.net/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vx6b4gtP/0791.png" group-title="→ BOLIVIA ←",SPC CANAL 15
+https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBJXxTJF/0453.png" group-title="→ BOLIVIA ←",TLESTRELLA TV
 https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tx6zHzy2/0454.png" group-title="→ BOLIVIA ←",TV SHOW
 http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LX8JKCMb/0792.png" group-title="→ BOLIVIA ←",TV OFF
+https://edge.enhdtv.com/tvoff/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vvmHYPVk/0684.png" group-title="→ BOLIVIA ←",TVS X TV
 https://micanal.ovh/livestreams/79.H2F2M0K99BWW.m3u8
@@ -1412,11 +1445,26 @@ http://38.44.109.41:8003/play/a0g6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5gNKfX14/0013.png" group-title="→ CHILE ←",13 CL
 http://181.78.192.238:8000/play/a288
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJ2GqTj4/0794.png" group-title="→ CHILE ←",ABAJO E' LA LINEA TV
+https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WWqMYdJ/0799.png" group-title="→ CHILE ←",ADA TV
+https://v4.tustreaming.cl/limachemovil/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qMkMK7By/0735.png" group-title="→ CHILE ←",APANINES TV
 https://183.giatvcdn.com/ssh101/ssh101/apaninestv2025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXmyfK2J/0470.png" group-title="→ CHILE ←",ATACAMA TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vxymKtPf/0795.png" group-title="→ CHILE ←",CALDERA VISION
+https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2SDxpRv/0796.png" group-title="→ CHILE ←",CANAL 2 QUELLON
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tTqWBJ2Z/0797.png" group-title="→ CHILE ←",CANAL 30 LONCOMILLA
+https://v1.tustreaming.cl/canal30loncomilla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YTfyQF1M/0471.png" group-title="→ CHILE ←",CANAL LATINO 54
 https://live.chileservidores.com:8081/latina/index.m3u8
@@ -1426,6 +1474,9 @@ http://38.44.109.41:8003/play/a0hk
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mHVd18P/0124.png" group-title="→ CHILE ←",CHV
 http://38.44.109.41:8003/play/a0h0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DPc3HWd1/0472.png" group-title="→ CHILE ←",CONTIVISION
+https://unlimited1-cl-isp.dps.live/cm/cm.smil/cm/livestream1/chunks.m3u8?nimblesessionid=714371610
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DPc3HWd1/0472.png" group-title="→ CHILE ←",CONTIVISION
 https://unlimited1-us.dps.live/cm/cm.smil/playlist.m3u8
@@ -1438,6 +1489,9 @@ http://45.239.31.254:8000/play/a02o
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9m532GBP/0170.png" group-title="→ CHILE ←",DODO TV
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jwczbb77/0798.png" group-title="→ CHILE ←",EL 3 DE CONCE
+https://5ff3d9babae13.streamlock.net/xedkektnqj/xedkektnqj/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7h3NQMR/0473.png" group-title="→ CHILE ←",EMOCION TV
 https://v1.tustreaming.cl/emociontv/tracks-v1a1/mono.m3u8
@@ -1452,19 +1506,28 @@ https://v2.tustreaming.cl/fantasiatv/index.m3u8
 https://v1.tustreaming.cl/melinkana/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wNNxdqv3/0216.png" group-title="→ CHILE ←",LA RED
-http://38.44.109.41:8003/play/a0ha
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wNNxdqv3/0216.png" group-title="→ CHILE ←",LA RED
 http://45.70.201.253:8889/play/a0dl
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Zb3y8MY/0232.png" group-title="→ CHILE ←",MEGA
-http://38.44.109.41:8003/play/a0h7
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zb3y8MY/0232.png" group-title="→ CHILE ←",MEGA
-http://38.44.109.41:8003/play/a0hl
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whWtcbG5/0802.png" group-title="→ CHILE ←",ÑUBLE RTV
+https://tv.arkeo.cl:1936/canalrtv/canalrtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QFYzpr1N/0750.png" group-title="→ CHILE ←",RED VISION
 https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mr37wHFm/0801.png" group-title="→ CHILE ←",RTC TV
+https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDMXxqFk/0803.png" group-title="→ CHILE ←",SAN NICOLAS TV
+https://v4.tustreaming.cl/sannicolastv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hxXQbvVF/0800.png" group-title="→ CHILE ←",SUPERSONIKA TV
+https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rpy1Zznx/0804.png" group-title="→ CHILE ←",SUYAI TV
+https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JjpPQr0S/0476.png" group-title="→ CHILE ←",TELEVIDA
 https://tls-cl.cdnz.cl/televida/live/chunklist_w874589881.m3u8
@@ -1549,6 +1612,9 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HDPhLjXj/0297.png" group-title="→ COLOMBIA ←",SEÑAL COLOMBIA
 http://38.44.109.41:8003/play/a018
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDPhLjXj/0297.png" group-title="→ COLOMBIA ←",SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3Yv84bp9/0468.png" group-title="→ COLOMBIA ←",TELE BOLIVAR
 https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8
 
@@ -1574,6 +1640,9 @@ https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/chKtJMSD/0687.png" group-title="→ COSTA RICA ←",BEST CLASICOS TV
 https://acceso.mediosdecostarica.com:3873/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zh7wH8zr/0793.png" group-title="→ COSTA RICA ←",C9N TV
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wrCFwWPy/0761.png" group-title="→ COSTA RICA ←",CANAL 1
 https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
@@ -1618,7 +1687,7 @@ https://lstv.duckdns.org:449/hls/lstv.m3u8
 http://181.78.192.238:8000/play/a2df
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Dg5z3gw7/0485.png" group-title="→ COSTA RICA ←",NICOYA TV
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/index.m3u8
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LXS565sN/0486.png" group-title="→ COSTA RICA ←",NORTE INFORMATIVO TV
 https://videohd.live:19360/8076/8076.m3u8
